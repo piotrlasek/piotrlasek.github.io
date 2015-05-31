@@ -14,5 +14,3 @@ github_username:  piotrlasek
 markdown: kramdown
 
 paginate: 10
-destination: _site/blog
-paginate_path: "/blog/page:num"
