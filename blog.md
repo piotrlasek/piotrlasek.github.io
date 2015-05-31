@@ -3,6 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+Hello:
 
 {% for post in paginator.posts %}
 
