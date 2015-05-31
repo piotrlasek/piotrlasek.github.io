@@ -4,7 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-
 {% for post in paginator.posts %}
 
 	<article class="post">
