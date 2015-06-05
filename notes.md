@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Notes
+permalink: /notes/
 ---
 
 <ul >
-    {% for post in site.posts limit 4 %}
+    {% for post in site.posts limit 40 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
         {{ post.content | truncatewords:75}}<br>
             <a href="{{ post.url }}">Read more...</a><br><br>
