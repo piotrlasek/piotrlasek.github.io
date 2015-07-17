@@ -4,7 +4,8 @@ title: Host-to-host network adapter configuration on Virtual Box
 date: 2015-07-17 12:08 
 categories: 
 ---
-{% highlight bash %}
+
+{% highlight bash%}
 sudo /etc/network/interfaces
 
 auto eth1
