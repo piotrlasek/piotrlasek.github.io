@@ -21,9 +21,10 @@ sudo -u postgres createdb -O piotr rm
 
 Access from remote servers:
 
+{% highlight bash %}
 /etc/postgresql/9.3/main/postgresql.conf
 listen_addresses = '*'
 /etc/postgresql/9.3/main/pg_hba.conf
 host    all             all             0.0.0.0/0            md5
 sudo service postgresql restart
-
+{% endhighlight %}
