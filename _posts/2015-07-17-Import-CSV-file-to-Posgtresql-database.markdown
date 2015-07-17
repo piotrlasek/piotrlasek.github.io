@@ -6,5 +6,5 @@ categories:
 ---
 
 {% highlight bash %}
-...
+\copy <table_name> from '</full/path/to/csv/file>' DELIMITER '<delimiter>' CSV;
 {% endhighlight %}
