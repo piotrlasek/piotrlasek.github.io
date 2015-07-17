@@ -4,7 +4,6 @@ title: Host to host network adapter configuration on Virtual Box
 date: 2015-07-17 12:58 
 categories: 
 ---
-{% highlight bash%}
 
 sudo /etc/network/interfaces
 
@@ -17,6 +16,5 @@ iface eth1 inet static
 
 sudo reboot
 
-{% endhighlight %}
 
 tmp
