@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some usefule PostgreSQL commands"
+title: "Some useful PostgreSQL commands"
 date: 2015-05-10 12:00:00
 categories: 
 ---
