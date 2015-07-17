@@ -5,8 +5,8 @@ date: 2015-07-17 13:02
 categories: 
 ---
 
-{%highlight bash%}
+{% highlight bash %}
 
 ...
 
-{%endhighlight%}
+{% endhighlight %}
