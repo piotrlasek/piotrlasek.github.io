@@ -6,6 +6,7 @@ categories:
 ---
 Backup database:
 
+{% highlight bash %}
 pg_dump db_name > db_name_dump.sql
 scp user_name@192.168.56.101:db_name_dump.sql .
 sudo -u postgres psql
@@ -16,6 +17,7 @@ alter user postgres with password 'postgres';
 \i db_name_dump.sql
 \d
 sudo -u postgres createdb -O piotr rm
+{% endhighlight %}
 
 Access from remote servers:
 
