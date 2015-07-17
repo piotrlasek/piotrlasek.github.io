@@ -6,7 +6,5 @@ categories:
 ---
 
 {% highlight bash %}
-
 ...
-
 {% endhighlight %}
