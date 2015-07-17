@@ -19,3 +19,4 @@ sudo reboot
 
 {% endhighlight %}
 
+tmp
