@@ -7,6 +7,7 @@ categories:
 
 Backup database:
 
+{% highlight bash%}
 pg_dump db_name > db_name_dump.sql
 
 scp user_name@192.168.56.101:db_name_dump.sql .
@@ -25,10 +26,13 @@ alter user postgres with password 'postgres';
 
 \d
 
-
 sudo -u postgres createdb -O piotr rm
 
+{% endhighlight %}
+
 Access from remote servers:
+
+{% highlight bash%}
 
 /etc/postgresql/9.3/main/postgresql.conf
 listen_addresses = '*'
@@ -38,5 +42,4 @@ host    all             all             0.0.0.0/0            md5
 
 sudo service postgresql restart
 
-
-
+{% endhighlight %}

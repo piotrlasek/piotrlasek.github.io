@@ -5,6 +5,7 @@ date: 2015-05-10 12:00:00
 categories: 
 ---
 
+{% highlight bash%}
 sudo /etc/network/interfaces
 
 auto eth1
@@ -15,3 +16,4 @@ iface eth1 inet static
 	broadcast 192.168.56.255
 
 sudo reboot
+{% endhighlight %}
