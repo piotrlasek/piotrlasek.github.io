@@ -6,3 +6,9 @@ categories:
 ---
 
 ![]({{site.url}}/files/constrained-nbc.png)
+
+Cannot-link constraints are pairs of points specified by a user before running a clustering algorithm. Cannot-link pairs of points cannot be assigned by the algorithm to the same cluster.
+
+Must-link constraint are pairs of points that must be assigned to the same cluster.
+
+In the above figure, must-link constraint points are connected by black solid lines, while cannot-link constraint points are "connected" by dashed red lines.
