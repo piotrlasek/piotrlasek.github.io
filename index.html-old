@@ -4,6 +4,38 @@ layout: home
 <div class="home">
 <div class="home_left" style="float: left; width: 525px">
 <img src="images/home.jpg" style="margin-bottom: 15px;"/>
+<p>
+Hi, welcome to my website!
+</p>
+<p>
+I'm a computer scientist and
+data analytics enthusiast with
+more than ten years hands-on experience
+in <i>programming</i>, <i>software design</i> and
+<i>data mining</i>.
+I'm experienced in all the design,
+implementation and testing stages
+of building a software product
+and took part in several
+research projects concerning text mining,
+semi-automatic ontology building and data clustering.
+</p>
+<p>
+Recently, I've been mostly interested in
+<i>interactive database visualization</i>,
+<i>knowledge-based data clustering</i>
+and <i>revenue management</i> techniques.
+</p>
+<p>
+Since August 2014, I'm a <i>Postdoctoral Fellow</i>
+at the York University (Toronto) working in the database lab
+on new methods of efficient and interactive database
+visualization.
+</p>
+<p>
+Here is my <a href="files/PiotrLasekCV2016September-noaddress.pdf">CV</a>.
+</p>
+</div>
 <div style="float: right;" class="twitter">
 <a class="twitter-timeline" href="https://twitter.com/pp_lasek" data-widget-id="586353409034444801" width=200px>Tweets by @pp_lasek</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
