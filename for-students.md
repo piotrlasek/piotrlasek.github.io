@@ -14,4 +14,4 @@ Poniżej znajdują się materiały do przedmiotów:
 
 ## Programowanie współbieżne i rozproszone
 
-
+Ble ble ble...
