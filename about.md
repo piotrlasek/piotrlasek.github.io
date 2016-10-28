@@ -36,5 +36,5 @@ Currently an <i>Assistant Professor</i> at the University of Rzeszow.
 
 </p>
 <p>
-Here is my <a href="files/PiotrLasekCV2016September-noaddress.pdf">CV</a>.
+Here is my <a href="../files/PiotrLasekCV2016September-noaddress.pdf">CV</a>.
 </p>
