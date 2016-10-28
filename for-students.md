@@ -13,6 +13,7 @@ Poniżej znajdują się materiały do przedmiotów:
 5. 
 
 ---
-## Programowanie współbieżne i rozproszone
+Programowanie współbieżne i rozproszone
+=======================================
 
 ---
