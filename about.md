@@ -32,7 +32,7 @@ at the York University (Toronto) working in the database lab
 on new methods of efficient and interactive database
 visualization.
 
-Currently an <i>Assistant Professor</i> at the University of Rzeszow.
+Currently, an <i>Assistant Professor</i> at the University of Rzeszow.
 
 </p>
 <p>
