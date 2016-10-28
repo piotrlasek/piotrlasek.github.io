@@ -10,6 +10,6 @@ Konsultacje:
 
 Materiały do przedmiotów:
 
-1. [Programowanie współbieżne i rozproszone](pwir)
-2. Inteligentne metody wspomagania decyzji dla urządzeń mobilnych
-3. Projekt inżynierski II
+* [Programowanie współbieżne i rozproszone](pwir)
+* Inteligentne metody wspomagania decyzji dla urządzeń mobilnych
+* Projekt inżynierski II
