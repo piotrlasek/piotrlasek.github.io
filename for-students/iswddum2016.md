@@ -8,6 +8,7 @@ exclude: true
 # Informacje
 
 Zasady zaliczenie:
+
 1. Obecność na laboratorium.
 2. Wykonanie projektu grupowego.
 3. Kolokwium podsumowujące wykład.
