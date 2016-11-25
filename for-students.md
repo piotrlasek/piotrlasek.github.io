@@ -12,4 +12,5 @@ Materiały do przedmiotów:
 
 * [Programowanie współbieżne i rozproszone](pwir)
 * [Inteligentne metody wspomagania decyzji dla urządzeń mobilnych](iswddum)
+* [Tworzenie GUI](tgui)
 * Projekt inżynierski II
