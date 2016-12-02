@@ -7,6 +7,7 @@ exclude: true
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTuBAdxocLiNVFVFTDOBFB3oHYgstOFAsgSIubM6V50fG63_jCOOK2A3hvho6Vo6ie9axBEAxk7do30/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
+
 ## References
 
 1. [Godfrey P., Gryz J., Lasek P.: Interactive Visualization of Large Data Sets, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, pp 2142–2157.](http://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=69&topArticlesDate=July+2016)
