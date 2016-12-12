@@ -25,9 +25,9 @@ Zasady zaliczenia:
 
 <iframe src="https://docs.google.com/presentation/d/1_k9N8-8shEE0kW2anQD7ZHOo-d3wzc36F9q2i5vsBJ0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/1lLJL2lIDV5aM5yBJWEsIwSKgKXlUFmlRuve1kZeqApk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCX4AwzpLNs8c_pSI3gUlIOak0c3HsCRfwhm7PBaME97dFTTpoebq4hIFz1Njnu_8cue_5wLqNqRc0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/1Tr8lpgEvjKWYgDdio2sM47CUF1DPd0b_Q9wK4R_tCcs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Programowanie w systemie Android
 
