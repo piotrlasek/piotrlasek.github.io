@@ -11,7 +11,7 @@ Zasady zaliczenia:
 
 1. Obecność na laboratorium.
 2. Wykonanie projektu grupowego.
-3. Kolokwium podsumowujące wykład.
+3. Kolokwium podsumowujące wykład. <span color=red>Termin kolokwium: 16 stycznia 2017 r.</span>
 
 # Slajdy
 
