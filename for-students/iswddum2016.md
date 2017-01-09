@@ -31,5 +31,6 @@ Zasady zaliczenia:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy8dpgS0_gu06WAS7I75eEMTZb8pToArx0by9aXU-ituG6KLyjyYOrxokXtqumvHyZQFVX4IFu5RV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/13BKQP8dcqPHNSJXZTYrf2bpEoLJHM7tAcPYA369PeCc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/13BKQP8dcqPHNSJXZTYrf2bpEoLJHM7tAcPYA369PeCc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <iframe src="https://docs.google.com/presentation/d/1lLJL2lIDV5aM5yBJWEsIwSKgKXlUFmlRuve1kZeqApk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
