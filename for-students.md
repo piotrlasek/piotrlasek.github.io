@@ -10,6 +10,7 @@ Konsultacje:
 
 Materiały do przedmiotów:
 
+* [Aplikacje internetowe 2](ai2)
 * [Programowanie współbieżne i rozproszone](pwir)
 * [Inteligentne metody wspomagania decyzji dla urządzeń mobilnych](iswddum)
 * [Tworzenie graficznych interfejsów użytkownika](tgui)
