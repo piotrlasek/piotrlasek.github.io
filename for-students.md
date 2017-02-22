@@ -6,7 +6,8 @@ permalink: /for-students/
 
 Konsultacje:
 
-* Poniedziałek, godz. 10:30 - 12:30, p. 353, B1
+* Środa, godz. 16:30 - 18:30, p. 353, B1
+* Przed przybyciem proszę o kontakt mailowy.
 
 Materiały do przedmiotów:
 
