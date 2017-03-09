@@ -112,15 +112,12 @@ języka HTML5. Moduł powinien spełniać następujace założenia:
 <h3> C. Zastosowanie indukcyjnej agregacji danych w wybranych algorytmach
      grupowania gęstościowego</h3>
 
-Planowane efekty naukowe i praktyczne obejmują opracowywanie algorytmów i
-struktura danych umożliwiających zarówno interaktywną wizualizację oraz eksplorację
-danych. Prace dotyczyć będą projektowania algorytmów anytime, tzn. takich, które
-dają analitykowi możliwości działania na dużych zbiorach danych, dając odpowiedź w
-zadanym czasie z zadaną dokładonością. Takie podejście jest istotne z punktu widzenia
-standardów HCI dotyczących systemów interaktywnych.
-W ramach prac planowane jest zaproponowanie nowego i przebadanie przynajmniej
-jednego algorytmu grupowania typu anytime wykorzystującego w tym celu
-zaproponowaną wcześniej indukcyjną i hierarchiczną strukturę danych pi-cube.
+Celem zadania jest zaadoptowanie (przy współpracy z opiekunem, na podstawie
+dostarczonej dokumentajci oraz literatury) i zaimplementowanie koncepcji indukcyjnej
+agregacji w wybranych algorytmach grupowania gęstościowego danych.
+
+Zadaniem studenta, oprócz implementacji, będzie zaproponowanie i przeprowadzenie
+odpowiednich testów, powrównujących wydajność zaprogramowanych algorytmów.
 
 
 <h3> D. Projekt i implementacja progresywnego algorytmu grupowania danych</h3>
@@ -135,6 +132,10 @@ grupowania danych, zaprojektowanie we współpracy z opiekunem, zaimplementowani
 oraz przetestowanie algorytmu progresywnego. Stworzony w ten sposób kod źródłowy
 zostanie włączony jako moduł do systemu służącego do testowania algorytmów eksploracji
 danych [DMTOOLS](https://github.com/piotrlasek/clustering).
+
+*Przykładowe zbiory testowe*:
+
+* [Clustering datasets](https://cs.joensuu.fi/sipu/datasets/)
 
 *Sugerowane technologie realizacji*:
 
