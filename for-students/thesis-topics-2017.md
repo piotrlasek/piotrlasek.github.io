@@ -113,11 +113,14 @@ języka HTML5. Moduł powinien spełniać następujace założenia:
      grupowania gęstościowego</h3>
 
 Celem zadania jest zaadoptowanie (przy współpracy z opiekunem, na podstawie
-dostarczonej dokumentajci oraz literatury) i zaimplementowanie koncepcji indukcyjnej
-agregacji w wybranych algorytmach grupowania gęstościowego danych.
+dostarczonej dokumentacji oraz literatury) i zaimplementowanie koncepcji indukcyjnej
+agregacji w wybranych algorytmach gęstościowego grupowania danych.
 
 Zadaniem studenta, oprócz implementacji, będzie zaproponowanie i przeprowadzenie
-odpowiednich testów, powrównujących wydajność zaprogramowanych algorytmów.
+odpowiednich testów, powrównujących wydajność zaprogramowanych algorytmów. 
+Stworzony w ten sposób kod źródłowy  zostanie włączony jako moduł do systemu
+służącego do testowania algorytmów eksploracji
+danych [DMTOOLS](https://github.com/piotrlasek/clustering).
 
 *Przykładowe zbiory testowe*:
 
