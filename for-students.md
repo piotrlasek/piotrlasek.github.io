@@ -9,7 +9,7 @@ Konsultacje:
 * Środa, godz. 16:30 - 18:30, p. 353, B1
 * Przed przybyciem proszę o kontakt mailowy.
 
-[**Propozycje tematów prac inżynierskich**](topics2017)
+Uwaga! [**Propozycje tematów prac inżynierskich**](topics2017)
 
 Materiały do przedmiotów:
 
