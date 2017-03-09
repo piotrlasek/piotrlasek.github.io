@@ -5,7 +5,7 @@ permalink: /for-students/tematy
 exclude: true
 ---
 
-# Interaktywna wizualizacja i eksploracja danych
+## Interaktywna wizualizacja i eksploracja danych
 
 W kontekście eksploracji danych, słowo interaktywny może
 odzwierciedlać jak wygląda, a w zasadzie jak powinna przebiegać praca
@@ -51,14 +51,10 @@ eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
----
-
 **Lista proponowanych tematów:**
 
----
-
-<h2> A. Projekt i implementacja interfejsu programistycznego systemu
-     interaktywnej wizualizacji i eksploracji danych </h2>
+<h3> A. Projekt i implementacja interfejsu programistycznego systemu
+     interaktywnej wizualizacji i eksploracji danych</h3>
 
 Celem pracy jest zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
@@ -89,17 +85,14 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 * Django
 * JSON
 
----
+<h3> B. Implementacja interaktywnego modułu wizualizacji danych przy użyciu
+     komponentu WebGL</h3>
 
-<h2> B. 
-     </h2>
+<h3> C. Zastosowanie indukcyjnej agregacji danych w wybranych algorytmach
+     grupowania gęstościowego</h3>
 
----
+<h3> D. </h3>
 
-<h2> C. 
-     </h2>
-
---- 
 
 Literatura:
 
