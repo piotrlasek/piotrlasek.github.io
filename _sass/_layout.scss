@@ -219,26 +219,26 @@
     h2 {
         font-size: 13px;
         font-weight: bold;
-        @include media-query($on-laptop) {
+/*        @include media-query($on-laptop) {
             font-size: 28px;
-        }
+        }*/
     }
 
     h3 {
         font-size: 12px;
         font-weight: bold;
 
-        @include media-query($on-laptop) {
+/*        @include media-query($on-laptop) {
             font-size: 22px;
-        }
+        }*/
     }
 
     h4 {
         font-size: 12px;
         font-style: italic;
 
-        @include media-query($on-laptop) {
+/*        @include media-query($on-laptop) {
             font-size: 18px;
-        }
+        }*/
     }
 }
