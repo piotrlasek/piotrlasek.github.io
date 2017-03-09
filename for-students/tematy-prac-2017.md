@@ -141,7 +141,7 @@ danych [DMTOOLS](https://github.com/piotrlasek/clustering).
 * Java - implementacja algorytmów
 * Python / ggplot - wizualizacja wyników
 
-### Literatura
+### Wybrana literatura
 
 1. [Godfrey P., Gryz J., Lasek P.: Interactive Visualization of Large Data Sets, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, pp 2142–2157.](http://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=69&topArticlesDate=July+2016)
 2. Godfrey P., Gryz J., Lasek P., Razavi N.: Visualization through Inductive Aggregation, Proceedings of the 19th International Conference on Extending Database Technology, EDBT 2016, Bordeaux, France, March 14-18, 2016
