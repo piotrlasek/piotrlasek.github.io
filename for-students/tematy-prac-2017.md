@@ -51,6 +51,8 @@ eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
+---
+
 **Lista proponowanych tematów:**
 
 ## A. Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
