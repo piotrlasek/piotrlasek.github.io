@@ -55,7 +55,8 @@ eksploracji.
 **Lista proponowanych tematów:**
 ---
 
-## A. Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
+<h2> A. Projekt i implementacja interfejsu programistycznego systemu
+     interaktywnej wizualizacji i eksploracji danych </h2>
 
 Celem pracy jest zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
@@ -80,20 +81,24 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
   New York Taxi Cab, Seattle Fire Calls, itp.).
 * Przedstawienie wyników eksperymentów w czytelnej i zrozumiałej formie.
 
-*Sugerowana technologia*:
+*Sugerowane technologie realizacji*:
 
 * Python
 * Django
+* JSON
 
 ---
 
-## B. 
+<h2> B. 
+     </h2>
 
 ---
 
-## C. 
+<h2> C. 
+     </h2>
 
 --- 
+
 Literatura:
 
 1. [Godfrey P., Gryz J., Lasek P.: Interactive Visualization of Large Data Sets, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, pp 2142–2157.](http://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=69&topArticlesDate=July+2016)
