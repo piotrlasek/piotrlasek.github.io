@@ -1,3 +1,10 @@
+---
+layout: page
+title: Tematy prac inżynierskich
+permalink: /for-students/tematy
+exclude: true
+---
+
 # Interaktywna wizualizacja i eksploracja danych
 *Tematy prac inżynierskich na semestr letni 2017*
 
@@ -43,7 +50,7 @@ umożliwiającej dostęp do danych o zadanym stopniu granularności co
 pozwala na redukcję ilości danych potrzebnych do ich wizualizacji, czy
 eksploracji.
 
-![Uproszczony diagram systemu](files/diagram.png)
+![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
 ## Projekt i implementacja interfejsu programistycznego (API) \
 systemu interaktywnej wizualizacji i eksploracji danych
