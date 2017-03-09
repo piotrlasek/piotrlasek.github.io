@@ -57,9 +57,7 @@ eksploracji.
 
 ## A. Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
 
-*Cel*:
-
-Zaprojektowanie i implementacja interfejsu programistycznego
+Celem pracy jest zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
 eksploracji danych. API będzie stanowiło interfejs pomiędzy relacyjną
 bazą danych, a pozostałymi modułami systemy (tj. modułem
