@@ -52,8 +52,8 @@ eksploracji.
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
 ---
-
 **Lista proponowanych tematów:**
+---
 
 ## A. Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
 
@@ -71,12 +71,26 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 * Optymalizacja sposobu przesyłania danych pomiędzy komponentami, w
   taki sposób, aby zachować interaktywność systemu.
 
-*Dodatkowe prace*:
-* Wykonanie eksperymentów przy użyciu różnych zbiorów danych.
-* xxx
+*Dodatkowe założenia i wymagania*:
+
+* Przygotowanie zestawu testów jednostkowych do stworzonego oproramowania.
+* Przetestowanie możliwości API przy użyciu istniejącej biblioteki
+  wizualizacji danych (np. D3.js lub ggplot).
+* Wykonanie eksperymentów przy użyciu różnych zbiorów danych (np. Checkins,
+  New York Taxi Cab, Seattle Fire Calls, itp.).
+* Przedstawienie wyników eksperymentów w czytelnej i zrozumiałej formie.
 
 *Sugerowana technologia*: Python, Django
 
+---
+
+## B. 
+
+---
+
+## B. 
+
+--- 
 Literatura:
 
 1. [Godfrey P., Gryz J., Lasek P.: Interactive Visualization of Large Data Sets, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, pp 2142–2157.](http://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=69&topArticlesDate=July+2016)
