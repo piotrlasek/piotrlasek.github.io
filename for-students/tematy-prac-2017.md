@@ -87,12 +87,61 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 
 <h3> B. Implementacja interaktywnego modułu wizualizacji danych przy użyciu
      komponentu WebGL</h3>
+     
+Celem tego zadania jest opracowanie i implementacje interaktywnego modułu
+wizualizacji danych opartego o komponent WebGL, który stanowi element
+języka HTML5. Moduł powinien spełniać następujace założenia:
+
+* Moduł powinien posiadać bibliotekę java script, za pomocą której realizowany
+  będzie dostęp do modułu dostarczania danych.
+* Bibliotego powinnakomunikować się z modułem dostarczania danych za pomocą
+  odpowiedniego zdefiniowanego interfejsem typu RESTful.
+* W celach testowych, moduł powinien umożliwiać zastąpienie odwołań do
+  serwisu RESTful danymi pochodzącymi z przygotowanych wcześniej 
+  plików JSON.
+* Powinny być wspierane podstawowe funkcjie interfejsu wizualizacji danych,
+  takie jak: *zooming in*, *zooming out*, *panning*, *selection*.
+
+*Sugerowane technologie realizacji*:
+
+* Java Script
+* HTML5 (WebGL)
+* jQuery
+* Bootstrap
 
 <h3> C. Zastosowanie indukcyjnej agregacji danych w wybranych algorytmach
      grupowania gęstościowego</h3>
 
-<h3> D. </h3>
+Planowane efekty naukowe i praktyczne obejmują opracowywanie algorytmów i
+struktura danych umożliwiających zarówno interaktywną wizualizację oraz eksplorację
+danych. Prace dotyczyć będą projektowania algorytmów anytime, tzn. takich, które
+dają analitykowi możliwości działania na dużych zbiorach danych, dając odpowiedź w
+zadanym czasie z zadaną dokładonością. Takie podejście jest istotne z punktu widzenia
+standardów HCI dotyczących systemów interaktywnych.
+W ramach prac planowane jest zaproponowanie nowego i przebadanie przynajmniej
+jednego algorytmu grupowania typu anytime wykorzystującego w tym celu
+zaproponowaną wcześniej indukcyjną i hierarchiczną strukturę danych pi-cube.
 
+
+<h3> D. Projekt i implementacja progresywnego algorytmu grupowania danych</h3>
+
+Zasada działania algorytmów progresywnych (*anytime*), polega na tym, że mogę one
+zwrócić wynik nawet jeśli ich działanie zostanie przerwane. Jeśli jednak algorytm
+będzie miał szansę działać dłużej, wówczas oczekiwany wynik powinien być *lepszy*.
+Algorytmy tego typu okreśna się rónież niekiedy mianem algorytmów *przerywalnych*.
+
+Zadaniem inżynieranta będzie, w opraciu o literaturę i wybrany istniejący algorytm
+grupowania danych, zaprojektowanie we współpracy z opiekunem, zaimplementowanie 
+oraz przetestowanie algorytmu progresywnego. Stworzony w ten sposób kod źródłowy
+zostanie włączony jako moduł do systemu służącego do testowania algorytmów eksploracji
+danych [DMTOOLS](https://github.com/piotrlasek/clustering).
+
+*Sugerowane technologie realizacji*:
+
+* Java - implementacja algorytmów
+* Python / ggplot - wizualizacja wyników
+
+---
 
 Literatura:
 
