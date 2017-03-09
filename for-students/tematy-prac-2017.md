@@ -30,7 +30,7 @@ dla którego obecne metody eksploracji dużych danych stają się
 niewystarczające. Operując na dużej liczbie obiektów, analityk nie
 jest po prostu w stanie uzyskać odpowiedzi o systemu w krótkim czasie.
 Niemniej jednak, zakładając, że użytkownika nie zawsze interesuje
-**dokładny** wynik analizy (co w wielu przypadkach jest prawdą), wydaje
+*dokładny* wynik analizy (co w wielu przypadkach jest prawdą), wydaje
 się, że odpowiedzią na opisany tutaj problem może być projektowanie
 algorytmów w taki sposób, aby użytkownik mógł otrzymywać właśnie
 przybliżoną odpowiedź w zadanym przez niego czasie.  Przykładowym
@@ -44,13 +44,16 @@ wizualizacji danych w kontekście projektowania i budowania systemów
 działających w sposób interaktywny, proponujemy kilka
 poniższych tematów prac inżynierskich.
 Ich elementem wspólnym jest wykorzystanie specjalnej struktury
+(pi-cube)
 umożliwiającej dostęp do danych o zadanym stopniu granularności co
 pozwala na redukcję ilości danych potrzebnych do ich wizualizacji, czy
 eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
-## Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
+**Lista proponowanych tematów:**
+
+## A. Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
 
 *Cel*: Zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
