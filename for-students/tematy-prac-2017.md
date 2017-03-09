@@ -57,7 +57,9 @@ eksploracji.
 
 ## A. Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
 
-*Cel*: Zaprojektowanie i implementacja interfejsu programistycznego
+*Cel*:
+
+Zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
 eksploracji danych. API będzie stanowiło interfejs pomiędzy relacyjną
 bazą danych, a pozostałymi modułami systemy (tj. modułem
@@ -80,7 +82,10 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
   New York Taxi Cab, Seattle Fire Calls, itp.).
 * Przedstawienie wyników eksperymentów w czytelnej i zrozumiałej formie.
 
-*Sugerowana technologia*: Python, Django
+*Sugerowana technologia*:
+
+* Python
+* Django
 
 ---
 
@@ -88,7 +93,7 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 
 ---
 
-## B. 
+## C. 
 
 --- 
 Literatura:
