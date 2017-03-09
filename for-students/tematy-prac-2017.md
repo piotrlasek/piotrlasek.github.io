@@ -143,7 +143,7 @@ danych [DMTOOLS](https://github.com/piotrlasek/clustering).
 
 ### Wybrana literatura
 
-*Książki"
+*Książki*
 
 1. Tadeusz Morzy, Eksploracja Danych Metody i algorytmy, Wydawnictwo Naukowe PWN, 2017
 
