@@ -119,6 +119,14 @@ agregacji w wybranych algorytmach grupowania gęstościowego danych.
 Zadaniem studenta, oprócz implementacji, będzie zaproponowanie i przeprowadzenie
 odpowiednich testów, powrównujących wydajność zaprogramowanych algorytmów.
 
+*Przykładowe zbiory testowe*:
+
+* [Clustering datasets](https://cs.joensuu.fi/sipu/datasets/)
+
+*Sugerowane technologie realizacji*:
+
+* Java - implementacja algorytmów
+* Python / ggplot - wizualizacja wyników
 
 <h3> D. Projekt i implementacja progresywnego algorytmu grupowania danych</h3>
 
