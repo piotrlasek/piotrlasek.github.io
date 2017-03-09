@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Tematy prac inżynierskich
+title: Tematy prac inżynierskich na semestr letni 2017
 permalink: /for-students/tematy
 exclude: true
 ---
 
 # Interaktywna wizualizacja i eksploracja danych
-*Tematy prac inżynierskich na semestr letni 2017*
 
 W kontekście eksploracji danych, słowo interaktywny może
 odzwierciedlać jak wygląda, a w zasadzie jak powinna przebiegać praca
@@ -51,7 +50,7 @@ eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
-## Projekt i implementacja interfejsu programistycznego (API) systemu interaktywnej wizualizacji i eksploracji danych
+## Projekt i implementacja interfejsu programistycznego systemu interaktywnej wizualizacji i eksploracji danych
 
 *Cel*: Zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
