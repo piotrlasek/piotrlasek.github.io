@@ -8,8 +8,7 @@ exclude: true
 # Interaktywna wizualizacja i eksploracja danych
 *Tematy prac inżynierskich na semestr letni 2017*
 
-**Wstęp**
-> W kontekście eksploracji danych, słowo interaktywny może
+W kontekście eksploracji danych, słowo interaktywny może
 odzwierciedlać jak wygląda, a w zasadzie jak powinna przebiegać praca
 analityków danych. W 1996 Shneiderman sformułował sformułował swego
 rodzaju metaforę opisującą proces analizy danych, tzw. mantrę
@@ -41,7 +40,7 @@ danych BlinkDB (Agrawal, 2013), która pozwala użytkownikowi zadawać
 zapytania specyfikując oczekiwany czas uzyskania wyniku oraz jego
 zakładaną jakość.
 
-> Biorąc pod uwagę powyższy komentarz dotyczący eksploracji i
+Biorąc pod uwagę powyższy komentarz dotyczący eksploracji i
 wizualizacji danych w kontekście projektowania i budowania systemów
 działających w sposób interaktywny, proponujemy kilka
 poniższych tematów prac inżynierskich.
@@ -52,8 +51,7 @@ eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
-## Projekt i implementacja interfejsu programistycznego (API) \
-systemu interaktywnej wizualizacji i eksploracji danych
+## Projekt i implementacja interfejsu programistycznego (API) systemu interaktywnej wizualizacji i eksploracji danych
 
 *Cel*: Zaprojektowanie i implementacja interfejsu programistycznego
 (API) w wybranej technologii dla systemu interaktywnej wizualizacji i
@@ -71,7 +69,7 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 
 *Dodatkowe prace*:
 * Wykonanie eksperymentów przy użyciu różnych zbiorów danych.
-* 
+* xxx
 
 *Sugerowana technologia*: Python, Django
 
