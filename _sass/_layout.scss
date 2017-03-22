@@ -12,7 +12,7 @@
 
 .site-title {
     //font-size: 26px;
-    line-height: 56px;
+    line-height: 1.5*$base-font-size;
     //letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -168,7 +168,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: $base-font-size;
 }
 
 .post-list {
@@ -187,7 +187,7 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: $base-font-size;
 }
 
 
@@ -200,7 +200,7 @@
 }
 
 .post-title {
-    font-size: 12px;
+    font-size: $base-font-size;
     font-weight: bold;
     //letter-spacing: -1px;
     line-height: 1;
@@ -214,21 +214,22 @@
     margin-bottom: $spacing-unit;
 
     h1 {
-        font-size: 14px;
+        font-size: $base-font-size;
         font-weight: bold;
     }
     
     h2 {
-        font-size: 13px;
-        font-weight: bold;
+        font-size: $base-font-size;
+        font-style: italic;
+//        font-weight: bold;
 /*        @include media-query($on-laptop) {
             font-size: 28px;
         }*/
     }
 
     h3 {
-        font-size: 12px;
-        font-weight: bold;
+        font-size: $base-font-size;
+  //      font-weight: bold;
 
 /*        @include media-query($on-laptop) {
             font-size: 22px;
@@ -236,8 +237,8 @@
     }
 
     h4 {
-        font-size: 12px;
-        font-style: italic;
+        font-size: $base-font-size;
+//        font-style: italic;
 
 /*        @include media-query($on-laptop) {
             font-size: 18px;
