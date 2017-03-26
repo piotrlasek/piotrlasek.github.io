@@ -144,6 +144,14 @@ oraz przetestowanie algorytmu progresywnego. Stworzony w ten sposób kod źród�
 zostanie włączony jako moduł do systemu służącego do testowania algorytmów eksploracji
 danych [DMTOOLS](https://github.com/piotrlasek/clustering).
 
+<h3>E. Wykrywanie wzorców zachowań pacjentów na podstawie analizy wybranych zbiorów biomedycznych</h3>
+
+Słowa kluczowe: behavioral patterns exploration, diabetes data set
+
+<h3>F. Analiza i ocena przydatności wybranych metod wspomagania zarządzania przychodem</h3>
+
+Słowa kluczowe: revenue management, prediction analysis
+
 *Przykładowe zbiory testowe*:
 
 * [Clustering datasets](https://cs.joensuu.fi/sipu/datasets/)
