@@ -1,3 +1,4 @@
+'''
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
@@ -8,3 +9,4 @@ y_t = df['v']
 pred_model = LinearRegression()
 pred_model.fit(X_t, y_t)
 pred_model.predict([3])
+'''
