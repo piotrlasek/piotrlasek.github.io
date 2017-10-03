@@ -7,11 +7,19 @@ exclude: true
 
 # Informacje
 
+Na tej stronie znajdują się również informacje dotyczące przedmiotu:
+Programowanie aplikacji na urządzenia mobilne.
+
 Zasady zaliczenia:
 
-1. Obecność na laboratorium.
-2. Wykonanie projektu grupowego.
-3. Kolokwium podsumowujące wykład. **Termin kolokwium: 16 stycznia 2017 r.**
+1. Realizacja wybranego projektu.
+2. Dokumentacja ze sposobu realizacji projektu.
+3. Obrona projektu (dyskusja na temat wybranych elementów
+    implementacji).
+3. Pozytywne zaliczenie kolokwium podsumowującego wykład.
+    * **Terminy kolokwiów:**
+      * PAUM: 4 stycznia 2018 r.
+      * ISWDUM: 11 stycznia 2018 r.
 4. [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 # Slajdy
