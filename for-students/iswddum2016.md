@@ -16,11 +16,41 @@ Zasady zaliczenia:
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
-3. Pozytywne zaliczenie kolokwium podsumowującego wykład.
+4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * **Terminy kolokwiów:**
       * PAUM: 4 stycznia 2018 r.
       * ISWDUM: 11 stycznia 2018 r.
-4. [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
+5. [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
+
+# Przykładowe zadania projektowe
+
+## ISWDUM
+
+Wszystkie poniższe hasła dotyczą implementacji aplikacji mobilnej.
+
+1. Rozpoznawanie znaków Braille'a.
+2. Rozpoznawanie twarzy.
+3. Rozpoznawanie zwierząt.
+4. Rozpoznawanie logotypów samochodowych.
+5. Rozpoznawanie numerów tablic samochodowych.
+6. Gra "kółko-krzyżyk".
+7. Gra "czwórki".
+8. Rozpoznawanie alfabetu Morse'a.
+9. Gra black-jack.
+10. Rozpoznwanie cyfr.
+11. Koszyk zakupów *wspomagana* algorytmem Aprori.
+
+Wybóru projektu i przypisania do grupy należy dokonać za pośrednictwem niniejszej [strony](https://docs.google.com/document/d/1Staq5cOUFPbYqUcYeGhE9Ud1m0UjzZQrx8_y3uwIHoU/edit?usp=sharing).
+
+## PAUM
+
+Zespoły samodzielnie formułują zadania projektowe. Należy jednak
+uwzględnić, że stopień skomplikowania projektu powinien być adekwatny
+do liczby osób w zespole (maksymalnie 4 osoby). Ponadto, na drugich
+zajęciach laboratoryjnych należy przedłożyć specyfikację proponowanego
+projektu według szablonu dostępnego [tutaj](https://docs.google.com/document/d/1ZgnGpDfW4oCgnLDqLSuICZSqbFZmUX68mx57CsO5d9s/edit?usp=sharing).
+
+Formularz rejestracji grup i tematów projektów dostępny jest [tutaj](https://docs.google.com/document/d/1ceGklwtyWo0laFlFYBNLOPx_CoEn_zOFxw7Q_ifrero/edit?usp=sharing).
 
 # Slajdy
 
