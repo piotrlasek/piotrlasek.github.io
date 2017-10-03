@@ -40,7 +40,7 @@ Wszystkie poniższe hasła dotyczą implementacji aplikacji mobilnej.
 10. Rozpoznwanie cyfr.
 11. Koszyk zakupów *wspomagana* algorytmem Aprori.
 
-Wybóru projektu i przypisania do grupy należy dokonać za pośrednictwem niniejszej [strony](https://docs.google.com/document/d/1Staq5cOUFPbYqUcYeGhE9Ud1m0UjzZQrx8_y3uwIHoU/edit?usp=sharing).
+Wybóru projektu i przypisania do grupy (maks. 4 osoby) należy dokonać za pośrednictwem niniejszej [strony](https://docs.google.com/document/d/1Staq5cOUFPbYqUcYeGhE9Ud1m0UjzZQrx8_y3uwIHoU/edit?usp=sharing).
 
 ## PAUM
 
