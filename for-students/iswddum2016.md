@@ -8,7 +8,7 @@ exclude: true
 # Informacje
 
 Na tej stronie znajdują się również informacje dotyczące przedmiotu:
-Programowanie aplikacji na urządzenia mobilne.
+**Programowanie aplikacji na urządzenia mobilne**.
 
 Zasady zaliczenia:
 
