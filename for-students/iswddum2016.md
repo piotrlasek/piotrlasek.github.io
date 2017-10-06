@@ -17,9 +17,7 @@ Zasady zaliczenia:
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
-    * **Terminy kolokwiów:**
-      * PAUM: 4 stycznia 2018 r.
-      * ISWDUM: 11 stycznia 2018 r.
+    * **Termin kolokwium:** 14 grudnia 2017 r.
 5. [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 # Przykładowe zadania projektowe
