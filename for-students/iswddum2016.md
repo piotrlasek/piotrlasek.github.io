@@ -19,7 +19,7 @@ Zasady zaliczenia:
     * **UWAGA: Termin oddania projektów**: 14 grudnia 2017 r.
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * **Termin kolokwium:** 14 grudnia 2017 r.
-5. [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
+    * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 Dokumentacja projektowa powinna zawierać:
 
