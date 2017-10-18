@@ -16,6 +16,7 @@ Zasady zaliczenia:
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
+    * **UWAGA: Termin oddania projektów**: 14 grudnia 2017 r.
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * **Termin kolokwium:** 14 grudnia 2017 r.
 5. [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
