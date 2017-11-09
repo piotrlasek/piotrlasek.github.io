@@ -5,6 +5,8 @@ permalink: /for-students/iswddum
 exclude: true
 ---
 
+# **UWAGA: Zajęcia w dniach 13-16 listpada odbędą się w innym terminie!**
+
 # Informacje
 
 Na tej stronie znajdują się również informacje dotyczące przedmiotu:
