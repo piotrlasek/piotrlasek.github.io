@@ -5,6 +5,8 @@ permalink: /for-students/iswddum
 exclude: true
 ---
 
+Ostatnia aktualizacja: **2017-11-20**
+
 # Informacje
 
 Na tej stronie znajdują się również informacje dotyczące przedmiotu:
