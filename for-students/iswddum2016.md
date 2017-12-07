@@ -24,7 +24,7 @@ Zasady zaliczenia:
        - poniedziałek, godz. 16:30 - 19:00, p. 243 B1
        - wtorek, godz. 16:45- 19:45, p. 239 B1
        - środa, godz. 16:30 - 19:00, p. 107 B4
-       - czwartek, **__kolokwium, p. 107 B3__**
+       - czwartek, godz. 17:45 - 19:00, **__kolokwium, p. 107 B3__**, proszę nie przynosić projektów
        - piątek, godz. 16:30 - 19:00, p. 107 B4
 
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
@@ -35,7 +35,7 @@ Dokumentacja projektowa powinna zawierać:
 
 * Tytuł i autorów.
 * Datę sporządzenia.
-* Opis podziału prac z procentowym uwzględnieniem wkładu poszczególnych osób.
+* **Opis podziału prac z procentowym uwzględnieniem wkładu poszczególnych osób.**
 * Opis treści zadania.
 * Opis sposobu wykonania.
 * Podsumowanie.
