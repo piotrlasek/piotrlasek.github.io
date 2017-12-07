@@ -19,14 +19,14 @@ Zasady zaliczenia:
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
-    &#x1F534; ~~UWAGA: Termin oddania projektów: 14 grudnia 2017 r.~~
-    &#x1F534; Proszę zgłaszać się z projektami w dniach 8-15 grudnia w godzinach:<br>
+    * &#x1F534; ~~UWAGA: Termin oddania projektów: 14 grudnia 2017 r.~~
+    * &#x1F534; Proszę zgłaszać się z projektami w dniach 8-15 grudnia w godzinach:<br>
        - poniedziałek, godz. 16:30 - 19:00, p. 243 B1<br>
        - wtorek, godz. 16:45- 19:45, p. 239 B1<br>
        - środa, godz. 16:30 - 19:00, p. 107 B4<br>
        - czwartek, **__kolokwium, p. 107 B3__**<br>
        - piątek, godz. 16:30 - 19:00, p. 107 B4<br>
-    &#x1F534; UWAGA! Proszę zgłaszać się  zignorować ogłoszenie z dnia wczorajszego!
+    * &#x1F534; UWAGA! Proszę zgłaszać się  zignorować ogłoszenie z dnia wczorajszego!
 
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * **Termin kolokwium:** 14 grudnia 2017 r.
