@@ -32,7 +32,7 @@ Zasady zaliczenia:
     * **Termin kolokwium:** 14 grudnia 2017 r.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
-Dokumentacja projektowa powinna zawierać:
+Dokumentacja projektowa powinna zawierać: 
 
 * Tytuł i autorów.
 * Datę sporządzenia.
