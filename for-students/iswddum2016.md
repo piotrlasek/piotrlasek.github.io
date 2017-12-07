@@ -5,7 +5,8 @@ permalink: /for-students/iswddum
 exclude: true
 ---
 
-Ostatnia aktualizacja: **2017-11-20**
+Ostatnia aktualizacja: **2017-12-07**
+
 
 # Informacje
 
@@ -18,7 +19,15 @@ Zasady zaliczenia:
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
-    * **UWAGA: Termin oddania projektów**: 14 grudnia 2017 r.
+    * &#x1F534; ~~UWAGA: Termin oddania projektów: 14 grudnia 2017 r.~~
+    * &#x1F534; Proszę zgłaszać się z projektami w dniach 8-15 grudnia w godzinach:
+       - poniedziałek, godz. 16:30 - 19:00, p. 243 B1
+       - wtorek, godz. 16:45- 19:45, p. 239 B1
+       - środa, godz. 16:30 - 19:00, p. 107 B4
+       - czwartek, **kolokwium, p. 107 B3**
+       - piątek, godz. 16:30 - 19:00, p. 107 B4
+    * &#x1F534; UWAGA! Proszę zgłaszać się  zignorować ogłoszenie z dnia wczorajszego!
+
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * **Termin kolokwium:** 14 grudnia 2017 r.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
