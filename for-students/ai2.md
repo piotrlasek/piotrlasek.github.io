@@ -10,13 +10,12 @@ exclude: true
 # Informacje
 
 Zasady zaliczenia:
-* Egzamin: **UWAGA! Zmiana terminu egzaminu. Bardzo proszę o kontakt mailowy Starostę grupy w celu ustalenia nowego terminu egzaminu.**
-* 2 x kolokwium wykładowe: 12 kwietnia 2017 i 7 czerwca 2017.
+* 2 x kolokwium wykładowe: **Terminy zostaną podane wkrótce**.
   * [Przykładowe materiały do przygotowania do
   kolokwium](ai2-test-demo.pdf)
   * Wyniki kolokwiów i egzaminów
-    * [Stacjonarne](ai2-2017-oceny.pdf)
-    * [Niestacjonarne](ai2-2017-kol1-wyn.pdf)
+    * [Stacjonarne](xxx)
+    * [Niestacjonarne](xxx)
 * Laboratorium
 * Projekt
 
@@ -69,7 +68,7 @@ Materiały do zajęć laboratoryjnych:
 # Projekty
 
 **Uwaga:** Do **29 marca** należy dokonać podziału na zespoły oraz dokonać zapisu na wybrany przez
-zespół temat na [stronie zapisów](https://docs.google.com/document/d/1ysbPqXybqgpxvLWPetOv--JI32nEqR8gYSTS3sWzMeA/edit?usp=sharing). Do dnia **12 kwietnia** należy przygotować dokumentację wstępną, która zawierać będzie opracowane przez zespół założenia projektu dotyczące planowanych funkcjonalności, wykorzystanych technologii i metod testowania.
+zespół temat na [stronie zapisów](https://docs.google.com/document/d/1tURNaPUu03KfPaMrOn8Kb6PSmH2685Tg2W3A_u4IsP8/edit?usp=sharing). Do dnia **12 kwietnia** należy przygotować dokumentację wstępną, która zawierać będzie opracowane przez zespół założenia projektu dotyczące planowanych funkcjonalności, wykorzystanych technologii i metod testowania.
 
 **Uwaga:** Studenci, które nie dokonają zapisu na projekt i nie dostarczą dokumentacji wstępnej (w wyznaczonych terminach) uzyskują dotatkowe -0,5 stopnia do oceny końcowej z zaliczenia przedmiotu.
 
