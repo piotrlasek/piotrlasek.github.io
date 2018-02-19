@@ -13,8 +13,9 @@ Konsultacje:
 
 Materiały do przedmiotów:
 
-* ~~[Aplikacje internetowe 2](ai2)~~
-* [Programowanie współbieżne i rozproszone](pwir)
-* [Inteligentne metody wspomagania decyzji dla urządzeń mobilnych i Programowanie aplikacji na urządzenia mobilne](iswddum)
-* ~~[Tworzenie graficznych interfejsów użytkownika](tgui)~~
+* [Aplikacje internetowe 2 / 2018](ai2)
+* [Seminarium dyplomowe / 2018](si)
+* ~~[Programowanie współbieżne i rozproszone / 2017]~~(pwir)
+* ~~[Programowanie aplikacji na urządzenia mobilne/ 2017]~~(iswddum)
+* ~~[Tworzenie graficznych interfejsów użytkownika / 2016]~~(tgui)
 * ~~Projekt inżynierski II~~
