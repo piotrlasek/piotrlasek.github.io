@@ -9,8 +9,14 @@ exclude: true
 
 # Informacje
 
+Zmiana terminów zajęć:
+* Proszę śledzić informacje na stronie.
+
 Zasady zaliczenia:
-* 2 x kolokwium wykładowe: **Terminy zostaną podane wkrótce**.
+* Terminy kolokwiów i egzaminu:
+  * **I kolokwium: 19 kwietnia**
+  * **II kolokwium: 7 czerwca**
+  * **Egzamin: _do ustalenia_**
   * [Przykładowe materiały do przygotowania do
   kolokwium](ai2-test-demo.pdf)
   * Wyniki kolokwiów i egzaminów
