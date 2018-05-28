@@ -4,9 +4,6 @@ title: For students
 permalink: /for-students/
 ---
 
-Oferta pracy:  [Database Consultant](https://pl.career.deloittece.com/job-posting/477/Database-Consultant). CV można przysyłać do mnie.
-
-
 Konsultacje:
 
 * Po wcześniejszym kontakcie mailowym.
