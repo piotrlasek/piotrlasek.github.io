@@ -15,7 +15,7 @@ Materiały do przedmiotów:
 
 * [Aplikacje internetowe 2 / 2018](ai2)
 * [Seminarium dyplomowe / 2018](si)
+* [Urządzenia mobilne / 2018]~~(um)
 * ~~[Programowanie współbieżne i rozproszone / 2017]~~(pwir)
-* ~~[Programowanie aplikacji na urządzenia mobilne/ 2017]~~(iswddum)
 * ~~[Tworzenie graficznych interfejsów użytkownika / 2016]~~(tgui)
 * ~~Projekt inżynierski II~~
