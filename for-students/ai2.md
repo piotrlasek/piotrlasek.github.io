@@ -9,7 +9,7 @@ exclude: true
 
 # Informacje
 
-<img src="https://dummyimage.com/400x50/ffffff/FF0000.png&text=UWAGA:+Wyk%C5%82ad+w+dn.+16.10.2018+r.+nie+odb%C4%99dzie+si%C4%99!!!"></img>
+**Uwaga: Wykład w dn. 16.10.2018 nie odbędzie się!**
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
