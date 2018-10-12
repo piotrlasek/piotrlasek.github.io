@@ -9,8 +9,7 @@ exclude: true
 
 # Informacje
 
-Zmiana terminów zajęć:
-* **UWAGA**: Wykład w dn. 16.10.2018 r. nie odbędzie się!!!
+<img src="https://dummyimage.com/400x50/ffffff/FF0000.png&text=UWAGA:+Wyk%C5%82ad+w+dn.+16.10.2018+r.+nie+odb%C4%99dzie+si%C4%99!!!"></img>
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
@@ -24,9 +23,6 @@ Zasady zaliczenia:
     * [Niestacjonarne](xxx)
 * Laboratorium
 * Projekt
-<svg height="30" width="200">
-  <text x="0" y="15" fill="red">I love SVG!</text>
-</svg>
 
 Slajdy z wykładów:
 
