@@ -10,7 +10,7 @@ exclude: true
 # Informacje
 
 Zmiana terminów zajęć:
-* Proszę śledzić informacje na stronie.
+* **UWAGA**: Wykład w dn. 16.10.2018 r. nie odbędzie się!!!
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
