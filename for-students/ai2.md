@@ -9,7 +9,9 @@ exclude: true
 
 # Informacje
 
+
 **Uwaga: Wykład w dn. 16.10.2018 nie odbędzie się!**
+
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
