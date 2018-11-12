@@ -4,7 +4,7 @@ title: For students
 permalink: /for-students/
 ---
 
-**UWAGA: Zajęcie w dn. 13 i 14 listopada 2018 r. odbędą się w innym terminie!**
+**UWAGA: Zajęcia w dn. 13 i 14 listopada 2018 r. odbędą się w innym terminie!**
 
 Konsultacje:
 
