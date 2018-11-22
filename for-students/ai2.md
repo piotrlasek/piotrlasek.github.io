@@ -10,19 +10,18 @@ exclude: true
 # Informacje
 
 
-**Uwaga: Wykład w dn. 16.10.2018 nie odbędzie się!**
-
+**Uwaga: Termin pierwszego kolokwium: 11 grudnia 2018 r. Zakres materiału na kolokwium będzie obejmował treści z wykładu.**
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
-  * **I kolokwium: ___________**
+  * **I kolokwium: 11 grudnia 2018 r.**
   * **II kolokwium: ___________**
-  * **Egzamin: _do ustalenia_**
+  <!-- * **Egzamin: _do ustalenia_** -->
   * [Przykładowe materiały do przygotowania do
   kolokwium](ai2-test-demo.pdf)
-  * Wyniki kolokwiów i egzaminów
-    * [Stacjonarne](xxx)
-    * [Niestacjonarne](xxx)
+  * Wyniki kolokwiów i egzaminów: __________
+    <!-- * [Stacjonarne](xxx)
+    * [Niestacjonarne](xxx) -->
 * Laboratorium
 * Projekt
 
