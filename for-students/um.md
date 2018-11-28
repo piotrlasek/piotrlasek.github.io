@@ -5,15 +5,18 @@ permalink: /for-students/um
 exclude: true
 ---
 
-Ostatnia aktualizacja: **2018-10-10**
+Ostatnia aktualizacja: **2018-11-28**
 
+&#x1F534; Uwaga: Ostatnie zajęcia w semestrze: **2 i 3 grudnia, 2018 r.**
 
-# Informacje
+<!-- # Informacje
 
 Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 1. Programowanie aplikacji na urządzenia mobilne (PAUM)
 1. Programowanie urządzeń mobilnych (AUM)
 1. Bazy danych dla urządzań mobilnych (BDUM).
+
+-->
 
 Zasady zaliczenia:
 
@@ -21,16 +24,12 @@ Zasady zaliczenia:
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
-    * &#x1F534; ~~UWAGA: Termin oddania projektów: ??? ~~
-    * &#x1F534; Proszę zgłaszać się z projektami w dniach 8-15 grudnia w godzinach:<br>
-       - poniedziałek, godz. 16:30 - 19:00, p. 243 B1
-       - wtorek, godz. 16:45- 19:45, p. 239 B1
-       - środa, godz. 16:30 - 19:00, p. 107 B4
-       - czwartek, godz. 17:45 - 19:00, **__kolokwium, p. 107 B3__**, proszę nie przynosić projektów
-       - piątek, godz. 16:30 - 19:00, p. 107 B4
+    <!-- * &#x1F534; ~~UWAGA: Termin oddania projektów: ??? ~~ -->
+    * &#x1F534; Proszę zgłaszać się z projektami w dniach 2 grudnia w godzinach:<br>
+       - poniedziałek, godz. 8:00 - 11:00, p. 240 B1
 
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
-    * **Termin kolokwium:** ??? .
+    * &#x1F534; **Termin kolokwium:** 3 grudnia 2018 r.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 Dokumentacja projektowa powinna zawierać: 
