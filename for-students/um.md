@@ -7,7 +7,7 @@ exclude: true
 
 Ostatnia aktualizacja: **2018-11-28**
 
-&#x1F534; Uwaga: Ostatnie zajęcia w semestrze: **2 i 3 grudnia, 2018 r.**
+&#x1F534; Uwaga: Ostatnie zajęcia w semestrze: **3 i 5 grudnia, 2018 r.**
 
 <!-- # Informacje
 
@@ -25,11 +25,11 @@ Zasady zaliczenia:
 3. Obrona projektu (dyskusja na temat wybranych elementów
     implementacji).
     <!-- * &#x1F534; ~~UWAGA: Termin oddania projektów: ??? ~~ -->
-    * &#x1F534; Proszę zgłaszać się z projektami w dniach 2 grudnia w godzinach:<br>
+    * &#x1F534; Proszę zgłaszać się z projektami w dniach 3 grudnia w godzinach:<br>
        - poniedziałek, godz. 8:00 - 11:00, p. 240 B1
 
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
-    * &#x1F534; **Termin kolokwium:** 3 grudnia 2018 r.
+    * &#x1F534; **Termin kolokwium:** 5 grudnia 2018 r., godz. 9:45, sala 241 lub 228.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 Dokumentacja projektowa powinna zawierać: 
