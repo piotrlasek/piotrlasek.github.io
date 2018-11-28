@@ -4,7 +4,7 @@ title: For students
 permalink: /for-students/
 ---
 
-**UWAGA: Zajęcia w dn. 13 i 14 listopada 2018 r. odbędą się w innym terminie!**
+&#x1F534; **UWAGA: Ostatnie zajęcia z przedmiotu BDUM - 2 i 3 grudnia! Proszę zgłaszać się z projektami. Kolowkium zaliczeniowe: 3 grudnia, godz. 9:45, sala 228 lub 241 !!!**
 
 Konsultacje:
 
