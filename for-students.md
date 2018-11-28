@@ -4,7 +4,7 @@ title: For students
 permalink: /for-students/
 ---
 
-&#x1F534; **UWAGA: Ostatnie zajęcia z przedmiotu BDUM - 2 i 3 grudnia! Proszę zgłaszać się z projektami. Kolowkium zaliczeniowe: 3 grudnia, godz. 9:45, sala 228 lub 241 !!!**
+&#x1F534; **UWAGA: Ostatnie zajęcia z przedmiotu BDUM - 3 i 5 grudnia! Proszę zgłaszać się z projektami. Kolowkium zaliczeniowe: 3 grudnia, godz. 9:45, sala 228 lub 241 !!!**
 
 Konsultacje:
 
