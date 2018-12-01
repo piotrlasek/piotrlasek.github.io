@@ -4,14 +4,14 @@ title: For students
 permalink: /for-students/
 ---
 
-&#x1F534; **UWAGA: Ostatnie zajęcia z przedmiotu BDUM - 3 i 5 grudnia! Proszę zgłaszać się z projektami. Kolowkium zaliczeniowe: 3 grudnia, godz. 9:45, sala 228 lub 241 !!!**
+&#x1F534; **UWAGA**: Ostatnie zajęcia z przedmiotu BDUM - 3 i 5 grudnia! Proszę zgłaszać się z projektami. Kolowkium zaliczeniowe: 3 grudnia, godz. 9:45, sala 228 lub 241 !!!
 
 Konsultacje:
 
 * Po wcześniejszym kontakcie mailowym.
-* Wtorek, godz. 15:00 - 17:00, p. 353, B1
+<!-- * Wtorek, godz. 15:00 - 17:00, p. 353, B1 -->
 
-~~Uwaga! &rarr; [Propozycje tematów prac inżynierskich](topics2017)~~
+[Propozycje tematów prac inżynierskich](topics2017)
 
 Materiały do przedmiotów:
 
