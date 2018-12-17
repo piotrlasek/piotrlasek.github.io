@@ -10,7 +10,7 @@ exclude: true
 # Informacje
 
 
-**Uwaga: Termin pierwszego kolokwium: 11 grudnia 2018 r. Zakres materiału na kolokwium będzie obejmował treści z wykładu.**
+**Uwaga: Zajęcia grupy L4 (czwartek, godz. 9:45) w dniu 20 grudnia, nie odbędą się!**
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
