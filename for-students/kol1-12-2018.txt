@@ -1,7 +1,7 @@
 Osoby, które otrzymały ocenę 2.0 zapraszam do indywidualnej rozmowy na najbliższych zajęciach.
 
 Kod	Pkt.	Ocena
----------------
+--------------------
 woja	11	3.50
 kocz	13	4.00
 pawó	10	3.50
