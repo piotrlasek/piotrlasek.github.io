@@ -1,3 +1,5 @@
+Osoby, które otrzymały ocenę 2.0 zapraszam do indywidualnej rozmowy na najbliższych zajęciach.
+
 Kod	Pkt.	Ocena
 ---------------
 woja	11	3.50
