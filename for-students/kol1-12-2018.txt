@@ -19,7 +19,7 @@ alje	11	3.50
 padu	15	5.00
 jagu	12	4.00
 adga	12	4.00
-sebja	12	4.00
+seja	12	4.00
 ansa	10	3.50
 fiko	11	3.50
 łuko	11	3.50
