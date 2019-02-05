@@ -19,7 +19,7 @@ Zasady zaliczenia:
   <!-- * **Egzamin: _do ustalenia_** -->
   * [Przykładowe materiały do przygotowania do
   kolokwium](ai2-test-demo.pdf)
-  * Wyniki kolokwiów i egzaminów: [Kolokwium 1](kol1-12-2018.txt)
+  
 * Laboratorium
 * Projekt
 
