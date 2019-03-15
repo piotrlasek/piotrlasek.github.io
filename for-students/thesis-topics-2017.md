@@ -5,6 +5,37 @@ permalink: /for-students/topics2017
 exclude: true
 ---
 
+Ostatnia aktualizacja: 13 marca 2019 r.
+
+
+## Interaktywna wizualizacja i eksploracja danych
+
+ 1. Analiza i implementacja algorytmu k-średnich wspomagana strukturą
+    pi-cube.
+ 2. Eksperymenty i implementacja interaktywnych metod dostępu 
+    danych przy użyciu struktur hierarchicznych.
+ 3. Implementacja i testy nowej metody grupowania gęstościowego
+    opartego o algorytm DBSCAN i granularną strukturę pi-cube.
+ 4. Implementacja i testy nowej metody grupowania gęstościowego
+    opartego o algorytm NBC i granularną strukturę pi-cube.
+ 5. Projekt i implementacja webowego modułu interaktywnej wizualizacji
+    dużych zbiorów danych na przykładzie zbioru Checkins.
+ 6. Projekt i implementacja webowego modułu interaktywnej wizualizacji
+    dużych zbiorów danych na przykładzie zbioru Checkins.
+ 7. Projekt i implementacja modułu do testowania wydajności
+    hiearchicznych struktur danych.
+ 8. Grupowanie przybliżone w oparciu o hierarchiczną strukturę danych
+    - implementacja i analiza wybranych algorytmów.
+ 9. Grupowanie z ograniczeniami z wykorzystaniem sieci neuronowych do
+    wyznaczania odległości pomiędzy obiektami.
+10. Implementacja i analiza algorytmu DBSCAN przy użyciu platformy MADlib.
+11. Implementacja i analiza algorytmu NBC przy użyciu platformy
+    MADlib.
+
+
+
+
+
 ## Interaktywna wizualizacja i eksploracja danych
 
 W kontekście eksploracji danych, słowo interaktywny może
