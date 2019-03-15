@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Propozycje tematów prac inżynierskich na semestr letni 2017
+title: Propozycje tematów prac inżynierskich
 permalink: /for-students/topics2017
 exclude: true
 ---
