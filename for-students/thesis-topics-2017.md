@@ -8,7 +8,7 @@ exclude: true
 Ostatnia aktualizacja: 13 marca 2019 r.
 
 
-## Interaktywna wizualizacja i eksploracja danych
+## Przykładowe tematy - Seminarium Inżynierskie, semestr letni 2019
 
  1. Analiza i implementacja algorytmu k-średnich wspomagana strukturą
     pi-cube.
