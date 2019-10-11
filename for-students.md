@@ -18,9 +18,9 @@ Konsultacje:
 
 Materiały do przedmiotów:
 
+* [PWiR - Programowanie współbieżne i rozproszone](pwir)
 * [AI2 - Aplikacje internetowe 2](ai2)
 * [PUM - Programowanie urządzeń mobilnych](um)
-* [PWiR - Programowanie współbieżne i rozproszone](pwir)
 * [SD - Seminarium dyplomowe](si)
 * ~~[TGUI - Tworzenie graficznych interfejsów użytkownika](tgui)~~
 * ~~PI - Projekt inżynierski II~~
