@@ -21,6 +21,6 @@ Materiały do przedmiotów:
 * [AI2 - Aplikacje internetowe 2](ai2)
 * [PUM - Programowanie urządzeń mobilnych](um)
 * [PWiR - Programowanie współbieżne i rozproszone](pwir)
-* [SD Seminarium dyplomowe](si)
-* ~~[Tworzenie graficznych interfejsów użytkownika / 2016](tgui)~~
-* ~~Projekt inżynierski II~~
+* [SD - Seminarium dyplomowe](si)
+* ~~[TGUI - Tworzenie graficznych interfejsów użytkownika](tgui)~~
+* ~~PI - Projekt inżynierski II~~
