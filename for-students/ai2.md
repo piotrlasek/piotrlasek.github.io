@@ -7,19 +7,12 @@ exclude: true
 
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="300px">
 
-# Informacje
-
-
-**Uwaga: Zajęcia grupy L4 (czwartek, godz. 9:45) w dniu 20 grudnia, nie odbędą się!**
-
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
-  * **I kolokwium: 11 grudnia 2018 r.**
+  * **I kolokwium: ___________**
   * **II kolokwium: ___________**
   <!-- * **Egzamin: _do ustalenia_** -->
-  * [Przykładowe materiały do przygotowania do
-  kolokwium](ai2-test-demo.pdf)
-  
+  * [Przykładowe materiały do przygotowania do kolokwium](ai2-test-demo.pdf)
 * Laboratorium
 * Projekt
 
@@ -69,12 +62,19 @@ Materiały do zajęć laboratoryjnych:
 1. [https://developers.google.com/edu/python/exercises/basic](https://developers.google.com/edu/python/exercises/basic)
 2. [https://github.com/piotrlasek/python-labs](https://github.com/piotrlasek/python-labs)
 
+Zaliczenie zajęć polega na zaimplementowaniu i zaprezentowaniu
+prowadzącemu laboratorium rezultatów implementacji zadań opisanych w
+skrypcie (pukt 2 powyżej).
+
 # Projekty
 
-**Uwaga:** Do **29 marca** należy dokonać podziału na zespoły oraz dokonać zapisu na wybrany przez
-zespół temat na [stronie zapisów](https://docs.google.com/document/d/1tURNaPUu03KfPaMrOn8Kb6PSmH2685Tg2W3A_u4IsP8/edit?usp=sharing). Do dnia **12 kwietnia** należy przygotować dokumentację wstępną, która zawierać będzie opracowane przez zespół założenia projektu dotyczące planowanych funkcjonalności, wykorzystanych technologii i metod testowania.
-
-**Uwaga:** Studenci, które nie dokonają zapisu na projekt i nie dostarczą dokumentacji wstępnej (w wyznaczonych terminach) uzyskują dotatkowe -0,5 stopnia do oceny końcowej z zaliczenia przedmiotu.
+Na początku semestru należy dokonać podziału na zespoły oraz dokonać zapisu na wybrany przez
+zespół temat na [stronie zapisów](https://docs.google.com/document/d/1tURNaPUu03KfPaMrOn8Kb6PSmH2685Tg2W3A_u4IsP8/edit?usp=sharing). W dniu oddania projektu (pod koniec semestru) należy przedstawić dokumentację systemu, która zawierać będzie:
+* opis opracowanych przez zespół założeń projektu,
+* opis planowanych funkcjonalności,
+* opis wykorzystanych technologii i metod testowania,
+* oraz implementacji,
+* infrmacje o procentowym stopniu zaangażowania członków zespółu w realizację projektu.
 
 Założenia i wymagania projektowe:
 * Wszystkie proponowane projekty dotyczą wykonania aplikacji internetowej w technologii
