@@ -78,13 +78,14 @@ zespół temat na [stronie zapisów](https://docs.google.com/document/d/1tURNaPU
 
 Założenia i wymagania projektowe:
 * Wszystkie proponowane projekty dotyczą wykonania aplikacji internetowej w technologii
-  Python + Django.
+  Python + Django (w indywidualnych przypadkach istnieje możliwość
+  implementacji projektu w technologii innej niż Python + Django).
 * Aplikację należy zaimplementować samodzielnie (w ramach zespolu) udostępniając kod
   na swoim koncie GitHub.
 * Do aplikacji należy przygotować dokumentację w postaci pliku README.md dołączonego
   do repozytorium GitHub.
-* Termin prezentacji projektu to **przedostatnie zajęcia** laboratoryjne w bieżącym
-  semestrze.
+* Proponowany termin prezentacji projektu to **przedostatnie zajęcia** laboratoryjne w bieżącym
+  semestrze (podstawą zaliczenia jest dokumentacja projektu).
 * Zespoły mogą być składać się maksymalnie z **4 osób**.
 * Elementy, które będą brane pod uwagę przy ocenie:
   1. Dokumentacja wstepna i koncowa projektu.
@@ -96,7 +97,7 @@ Założenia i wymagania projektowe:
   1. Integracja użytych narzedzi.
   1. Kompletność projektu.
   
-Lista projektów do wyboru:
+Lista przykładowych projektów do wyboru:
  1. Aplikacja webowa do predykcji i wizualizacji zachowania klientów.
  1. Aplikacja webowa do wizualizacji wyników eksploracji (np. grupowanie, klasyfikacja) danych.
  1. Aplikacja webowa do zarządzania i generowania (w postaci graficznej i tekstowej) raportów biznesowych.
