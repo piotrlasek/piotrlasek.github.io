@@ -4,8 +4,10 @@ title: For students
 permalink: /for-students/
 ---
 
+<!--
 &#x1F534; **Komunikaty:**
 * ...
+-->
 
 Konsultacje:
 
