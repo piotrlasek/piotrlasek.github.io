@@ -5,7 +5,7 @@ permalink: /for-students/ai2
 exclude: true
 ---
 
-Edycja: **Zima 2018**
+Edycja: **Zima 2019**
 Ostatnia aktualizacja: **10/11/2019 10:52:33 AM**
 
 Zasady zaliczenia:

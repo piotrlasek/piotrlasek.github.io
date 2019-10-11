@@ -5,9 +5,8 @@ permalink: /for-students/um
 exclude: true
 ---
 
-Ostatnia aktualizacja: **2018-11-28**
-
-&#x1F534; Uwaga: Ostatnie zajęcia z przedmiotu BDUM (IV inż.) w semestrze zimowym: **3 i 5 grudnia, 2018 r.**
+Edycja: **Zima 2018**
+Ostatnia aktualizacja: **10/11/2019 10:53:55 AM**
 
 <!-- # Informacje
 
