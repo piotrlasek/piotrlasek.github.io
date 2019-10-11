@@ -45,6 +45,7 @@ Dokumentacja projektowa powinna zawierać:
 
 # Przykładowe zadania projektowe
 
+<!--
 ## Zadania sugerowane dla ISWDUM
 
 Wszystkie poniższe hasła dotyczą implementacji aplikacji mobilnej.
@@ -62,8 +63,7 @@ Wszystkie poniższe hasła dotyczą implementacji aplikacji mobilnej.
 11. Koszyk zakupów *wspomagana* algorytmem Aprori.
 
 Wybóru projektu i przypisania do grupy (maks. 4 osoby) należy dokonać za pośrednictwem niniejszej [strony](https://docs.google.com/document/d/1Staq5cOUFPbYqUcYeGhE9Ud1m0UjzZQrx8_y3uwIHoU/edit?usp=sharing).
-
-## PAUM
+-->
 
 Zespoły samodzielnie formułują zadania projektowe. Należy jednak
 uwzględnić, że stopień skomplikowania projektu powinien być adekwatny
@@ -75,6 +75,7 @@ Formularz rejestracji grup i tematów projektów dostępny jest [tutaj](https://
 
 # Slajdy
 
+<!--
 ## Wybrane algorytmy sztucznej inteligencji
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW-B-nhI5dCnK3ciU4PVtbzEaCTE8IV6mo7UhNvIdZPEsyf0nmfV0Qllb22jSurVE3mZXn2DeCvo47/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -88,6 +89,7 @@ Formularz rejestracji grup i tematów projektów dostępny jest [tutaj](https://
 <iframe src="https://docs.google.com/presentation/d/1Tr8lpgEvjKWYgDdio2sM47CUF1DPd0b_Q9wK4R_tCcs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Programowanie w systemie Android
+-->
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy8dpgS0_gu06WAS7I75eEMTZb8pToArx0by9aXU-ituG6KLyjyYOrxokXtqumvHyZQFVX4IFu5RV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
