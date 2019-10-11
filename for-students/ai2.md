@@ -5,7 +5,7 @@ permalink: /for-students/ai2
 exclude: true
 ---
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="300px">
+Ostatnia aktualizacja: **10/11/2019 10:52:33 AM**
 
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
