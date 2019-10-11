@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inteligentne systemy wspomagania decyzji dla urządzeń mobilnych
+title: Programowanie urządzeń mobilnych
 permalink: /for-students/um
 exclude: true
 ---
