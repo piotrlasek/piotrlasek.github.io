@@ -111,11 +111,12 @@ Lista przykładowych projektów do wyboru:
 
 *Pozostałe informacje*
 
-**Przykładowe zbiory danych**
-https://goo.gl/K68yZW
-https://goo.gl/nmGJZf
+Przykładowe zbiory danych:
+```
+* https://goo.gl/K68yZW (https://goo.gl/K68yZW)
+* https://goo.gl/nmGJZf (https://goo.gl/nmGJZf)
 
-**Przykład wykorzystania pakietu sklearn do predykcji:**
+Przykład wykorzystania pakietu sklearn do predykcji:
 ```
 import pandas as pd
 from sklearn.linear_model import LinearRegression
