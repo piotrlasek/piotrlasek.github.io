@@ -109,7 +109,13 @@ Lista przykładowych projektów do wyboru:
  1. Aplikacja webowa do przewidywania obciążenia ruchu turystycznego na danych historycznych i danych kalendarzowych (np. informacje o świętach, długich weekendach, itp.).
  1. Aplikacja webowa do zbierania i analizowania informacji marketingowych na zadany temat.
 
-*Przykład wykorzystania pakietu sklearn do predykcji:*
+*Pozostałe informacje*
+
+**Przykładowe zbiory danych**
+https://goo.gl/K68yZW
+https://goo.gl/nmGJZf
+
+**Przykład wykorzystania pakietu sklearn do predykcji:**
 ```
 import pandas as pd
 from sklearn.linear_model import LinearRegression
