@@ -6,6 +6,7 @@ exclude: true
 ---
 
 Edycja: **Zima 2019**
+
 Ostatnia aktualizacja: **10/11/2019 10:47:19 AM**
 
 <!-- # &#x1F534; Komunikat **UWAGA**: Zajęcia laboratoryjne z dnia 9 stycznia 2018 r. odbędą się w późniejszym terminie.  -->
