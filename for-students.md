@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For students
+title: Informacje dla studentów
 permalink: /for-students/
 ---
 
