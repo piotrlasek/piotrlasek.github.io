@@ -5,8 +5,7 @@ permalink: /for-students/um
 exclude: true
 ---
 
-Edycja: **Zima 2018**
-<br>
+Edycja: **Zima 2018** <br>
 Ostatnia aktualizacja: **10/11/2019 10:53:55 AM**
 
 <!-- # Informacje
