@@ -18,9 +18,9 @@ Konsultacje:
 
 Materiały do przedmiotów:
 
-* [Aplikacje internetowe 2 / 2019](ai2)
-* [Seminarium dyplomowe / 2019](si)
-* [Programowanie urządzeń mobilnych / 2019](um)
-* [Programowanie współbieżne i rozproszone / 2017](pwir)
+* [Aplikacje internetowe 2](ai2)
+* [Seminarium dyplomowe](si)
+* [Programowanie urządzeń mobilnych](um)
+* [Programowanie współbieżne i rozproszone](pwir)
 * ~~[Tworzenie graficznych interfejsów użytkownika / 2016](tgui)~~
 * ~~Projekt inżynierski II~~
