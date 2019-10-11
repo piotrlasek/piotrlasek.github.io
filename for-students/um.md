@@ -6,6 +6,7 @@ exclude: true
 ---
 
 Edycja: **Zima 2018**
+
 Ostatnia aktualizacja: **10/11/2019 10:53:55 AM**
 
 <!-- # Informacje
