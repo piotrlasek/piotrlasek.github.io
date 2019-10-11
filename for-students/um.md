@@ -23,16 +23,7 @@ Zasady zaliczenia:
 1. Realizacja wybranego projektu.
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów implementacji).
-    <!-- * &#x1F534; ~~UWAGA: Termin oddania projektów: ??? ~~
-    * &#x1F534; Proszę zgłaszać się z projektami (BDUM, IV inż., st. dzienne) w dniu 3 grudnia w godzinach:<br>
-       - poniedziałek, godz. 8:00 (powinno być 8:45!) - 11:00, p. 240 B1
-    * &#x1F534; Dodatkowy termin:
-       - 5 grudnia po kolokwium zaliczeniowym
-    -->
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
-    <!--
-    * &#x1F534; **Termin kolokwium (BDUM, IV inż. st. dzienne):** 5 grudnia 2018 r., godz. 9:45, sala 241.
-    -->
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 Dokumentacja projektowa powinna zawierać: 
