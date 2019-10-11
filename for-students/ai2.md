@@ -112,9 +112,8 @@ Lista przykładowych projektów do wyboru:
 *Pozostałe informacje*
 
 Przykładowe zbiory danych:
-```
-* https://goo.gl/K68yZW (https://goo.gl/K68yZW)
-* https://goo.gl/nmGJZf (https://goo.gl/nmGJZf)
+* [https://goo.gl/K68yZW] (https://goo.gl/K68yZW)
+* [https://goo.gl/nmGJZf] (https://goo.gl/nmGJZf)
 
 Przykład wykorzystania pakietu sklearn do predykcji:
 ```
@@ -129,4 +128,3 @@ pred_model = LinearRegression()
 pred_model.fit(X_t, y_t)
 pred_model.predict([3])
 ```
-  
