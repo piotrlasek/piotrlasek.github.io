@@ -77,9 +77,12 @@ Wybóru projektu i przypisania do grupy (maks. 4 osoby) należy dokonać za poś
 
 Zespoły samodzielnie formułują zadania projektowe. Należy jednak
 uwzględnić, że stopień skomplikowania projektu powinien być adekwatny
-do liczby osób w zespole (maksymalnie 4 osoby). Ponadto, na drugich
+do liczby osób w zespole (maksymalnie 4 osoby).
+
+<!-- Ponadto, na drugich
 zajęciach laboratoryjnych należy przedłożyć specyfikację proponowanego
 projektu według szablonu dostępnego [tutaj](https://docs.google.com/document/d/1ZgnGpDfW4oCgnLDqLSuICZSqbFZmUX68mx57CsO5d9s/edit?usp=sharing).
+-->
 
 Formularz rejestracji grup i tematów projektów dostępny jest [tutaj](https://docs.google.com/document/d/1ceGklwtyWo0laFlFYBNLOPx_CoEn_zOFxw7Q_ifrero/edit?usp=sharing).
 
