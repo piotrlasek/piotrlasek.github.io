@@ -36,6 +36,25 @@ Dokumentacja projektowa powinna zawierać:
 
 # Przykładowe zadania projektowe
 
+1. Interaktywna książka kucharska
+1. Mobilna lista zakupów
+1. Prosta gra RPG dla co najmniej 2 użytkowników
+1. Wspoldzielony notatnik mobilny
+1. Gra w kółko i krzyżyk
+1. Gra karciana oczko (21)
+1. Aplikacja do rysowania na ekranie
+1. Biblioteka - aplikacja do wypożyczania książek
+1. Aplikacja do rezerwacji wybranego typu usług (np. siłownia, fryzjer, kosmetyczka)
+1. Kalkulator walut (on-line)
+1. Gra Tic-Tac-Toe dla 2 graczy
+1. Budzik
+1. Monitor 
+1. Plan zajęć UR
+1. Współdzielony spis kontaktów
+1. Współdzielony notatnik
+1. Monitor kosztów utrzymania samochodu
+
+
 <!--
 ## Zadania sugerowane dla ISWDUM
 
