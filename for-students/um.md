@@ -8,6 +8,18 @@ exclude: true
 Edycja: **Zima 2018** <br>
 Ostatnia aktualizacja: **10/11/2019 10:53:55 AM**
 
+## Aktualności
+
+* Uwaga, zmiana terminów zajęć:
+
+| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
+| --------- | -------- | --------------------- | -------------------- | ---- |
+| PUM       | Wykł.    | 22.10, 15:00 - 16:30  | 30.10, 10:00 - 11:30 | 228  |
+| PUM       | Lab.     | 22.10, 16:45 - 18:15  | 29.10, 13:15 - 13:45 | 241  |
+| PUM       | Lab.     | 22.10, 18:30 - 20:00  | 30.10, 11:30 - 13:00 | 241  |
+
+<br>
+
 <!-- # Informacje
 
 Na tej stronie znajdują się również informacje dotyczące przedmiotów:
@@ -17,7 +29,7 @@ Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 
 -->
 
-Zasady zaliczenia:
+## Zasady zaliczenia
 
 1. Realizacja wybranego projektu.
 2. Dokumentacja ze sposobu realizacji projektu.
@@ -25,7 +37,9 @@ Zasady zaliczenia:
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
-Dokumentacja projektowa powinna zawierać: 
+## Dokumentacja projektowa
+
+Dokumentacja projektowa powinna zawierać:
 
 * Tytuł i autorów.
 * Datę sporządzenia.
@@ -34,7 +48,7 @@ Dokumentacja projektowa powinna zawierać:
 * Opis sposobu wykonania.
 * Podsumowanie.
 
-# Przykładowe zadania projektowe
+## Przykładowe zadania projektowe
 
 1. Interaktywna książka kucharska
 1. Mobilna lista zakupów
@@ -86,7 +100,7 @@ projektu według szablonu dostępnego [tutaj](https://docs.google.com/document/d
 
 Formularz rejestracji grup i tematów projektów dostępny jest [tutaj](https://docs.google.com/document/d/1ceGklwtyWo0laFlFYBNLOPx_CoEn_zOFxw7Q_ifrero/edit?usp=sharing).
 
-# Slajdy
+## Slajdy
 
 <!--
 ## Wybrane algorytmy sztucznej inteligencji

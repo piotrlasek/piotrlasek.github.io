@@ -9,11 +9,11 @@ permalink: /for-students/
 * ...
 -->
 
-Ostatnia aktualizacja: 10/20/2019 7:58:34 AM
+Ostatnia aktualizacja: **10/20/2019 7:58:34 AM**
 
 ## Komunikaty:
 
-* UWAGA! Zmiana terminu zajęć!
+* UWAGA! Zmiany w terminach zajęć!
 
 | Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
 | --------- | -------- | --------------------- | -------------------- | ---- |

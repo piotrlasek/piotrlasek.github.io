@@ -6,11 +6,24 @@ exclude: true
 ---
 
 Edycja: **Zima 2019**<br>
-Ostatnia aktualizacja: **10/11/2019 10:47:19 AM**
+Ostatnia aktualizacja: **10/20/2019 8:26:10 AM**
 
 <!-- # &#x1F534; Komunikat **UWAGA**: Zajęcia laboratoryjne z dnia 9 stycznia 2018 r. odbędą się w późniejszym terminie.  -->
 
-# Zasady zaliczenia laboratorium
+## Aktualności
+
+* Uwaga, zmiana terminów zajęć!
+
+| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
+| --------- | -------- | --------------------- | -------------------- | ---- |
+| PWiR      | Wykł.    | 17.10, 16:00 - 17:30  | 16.10, 15:00 - 16:30 | 228  |
+| PWiR      | Lab.     | 17.10, 17:45 - 19:15  | 16.10, 13:15 - 14:45 | 241  |
+| PWiR      | Wykł.    | 24.10, 16:00 - 17:30  | 30.10, 15:00 - 16:30 | 228  |
+| PWiR      | Lab.     | 24.10, 17:45 - 19:15  | 30.10, 13:00 - 14:30 | 241  |
+
+<br>
+
+## Zasady zaliczenia laboratorium
 
 Zaliczenie laboratorium odbywa się na podstawie zaliczenia czterech
 indywidualnych mini-projektów. Do zaliczenia laboratorium wymagane
@@ -27,7 +40,7 @@ się z następujących elementów:
 3. Obrona projektu w formie pytań dotyczących projektu. Przykładowe
    pytania podane są poniżej.
 
-# Tematy zadań projektowych
+## Tematy zadań projektowych
 
 * Preferowana technologia implementacji: *Język Java*.
 * Dokumentacja do pakietu **java.util.concurrent** w postaci tutoriala dostępna jest [tutaj](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html).
@@ -68,7 +81,7 @@ się z następujących elementów:
     * [Guarded blocks](https://docs.oracle.com/javase/tutorial/essential/concurrency/guardmeth.html)
     * [Przykładowa implementacja](https://github.com/piotrlasek/bus-stop)
 
-# Przykładowe pytania pomocne w zaliczaniu zadań projektowych
+## Przykładowe pytania pomocne w zaliczaniu zadań projektowych
 
 1. Algorytm Petersona.
    * Czym charakteryzuje się algorytm Petersona?
@@ -119,7 +132,7 @@ się z następujących elementów:
    * **Materiały do przygotowania do egzaminu i [kolokwium](pwir-kolokwium-2.pdf)**.
 -->
 
-# Slajdy do wykładu (Jesień 2016)
+## Slajdy do wykładu (Jesień 2016)
 
 <iframe src="https://docs.google.com/presentation/d/1uDHyqTuH74eFHItjUmK2E1E-GVj_0vT1WCtxYCzwe2c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
