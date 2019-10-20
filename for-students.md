@@ -13,9 +13,7 @@ Ostatnia aktualizacja: **10/20/2019 7:58:34 AM**
 
 ## Komunikaty:
 
-* UWAGA! Zmiany w terminach zajęć!
-
-<span style="color:blue">some *This is Blue italic.* text</span>
+* <span style="color:red">UWAGA! Zmiany w terminach zajęć!</span>
 
 | Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
 | --------- | -------- | --------------------- | -------------------- | ---- |
