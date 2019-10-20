@@ -15,6 +15,8 @@ Ostatnia aktualizacja: **10/20/2019 7:58:34 AM**
 
 * UWAGA! Zmiany w terminach zajęć!
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 | Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
 | --------- | -------- | --------------------- | -------------------- | ---- |
 | AI2       | Lab.     | 21.10, 15:00 - 16:00  | 16.10, 18:00 - 19:30 | 241  |
