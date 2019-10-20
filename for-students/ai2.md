@@ -8,6 +8,13 @@ exclude: true
 Edycja: **Zima 2019**<br>
 Ostatnia aktualizacja: **10/11/2019 10:52:33 AM**
 
+Uwagi:
+* Zmiana terminu zajęć w tygodniu 21-25 października 2019 r.
+
+| Zajęcia  | Wg. planu             | Nowy termin          |
+| -------- | --------------------- | -------------------- |
+| Lab.     | 21.10, 15:00 - 16:00  | 16.10, 18:00, s. 241 |
+
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
   * **I kolokwium: ___________**
