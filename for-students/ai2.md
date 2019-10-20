@@ -15,6 +15,8 @@ Uwagi:
 | -------- | --------------------- | -------------------- |
 | Lab.     | 21.10, 15:00 - 16:00  | 16.10, 18:00, s. 241 |
 
+
+
 Zasady zaliczenia:
 * Terminy kolokwiów i egzaminu:
   * **I kolokwium: ___________**

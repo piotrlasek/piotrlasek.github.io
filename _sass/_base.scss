@@ -7,8 +7,17 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
+/**
+ *   PLS: adding table support
+ *   10/20/2019 7:50:17 AM
+ */
+.mbtablestyle {
+        border-collapse: collapse;
 
-
+   > table, td, th {
+        border: 1px solid black;
+        }
+}
 
 /**
  * Basic styling
