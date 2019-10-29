@@ -39,7 +39,7 @@ Ostatnia aktualizacja: **10/20/2019 7:58:34 AM**
 
 * [PWiR - Programowanie współbieżne i rozproszone](pwir)
 * [AI2 - Aplikacje internetowe 2](ai2)
-* [PUM - Programowanie urządzeń mobilnych](um)
+* [PUM - Programowanie urządzeń mobilnych](pum)
 * [SD - Seminarium dyplomowe](sd)
 * ~~[TGUI - Tworzenie graficznych interfejsów użytkownika](tgui)~~
 * ~~PI - Projekt inżynierski II~~
