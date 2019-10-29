@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programowanie urządzeń mobilnych
-permalink: /for-students/um
+permalink: /for-students/pum
 exclude: true
 ---
 
