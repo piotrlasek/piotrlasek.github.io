@@ -37,6 +37,15 @@ Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
+## Materiały do laboratorium
+
+* [Android Fundamentals](https://codelabs.developers.google.com/codelabs/android-training-welcome/index.html)
+* [Advanced Android Codelabs](https://codelabs.developers.google.com/advanced-android-training/)
+* Inne
+  * [Codelabs](https://codelabs.developers.google.com/)
+  * [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A)
+  * [Java](https://www.youtube.com/watch?v=vi8LlwJaBJY&list=PL6nth5sRD25g_M_OgsMQgYIrESzzkGLME)
+
 ## Dokumentacja projektowa
 
 Dokumentacja projektowa powinna zawierać:
