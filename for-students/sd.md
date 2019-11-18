@@ -6,10 +6,8 @@ exclude: true
 ---
 
 Edycja: **Zima 2018** <br>
-Ostatnia aktualizacja: **10/11/2019 10:53:55 AM**
+Ostatnia aktualizacja: **11/18/2019 7:20:35 PM**
 
-UWAGA! Zmiana terminu zajęć!
+Materiały:
 
-| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
-| --------- | -------- | --------------------- | -------------------- | ---- |
-| SD        | Sem.     | 21.10, 16:45 - 19:15  | 31.10, 14:30 - 16:00 | 239  |
+[http://www.ii.pw.edu.pl/~jwt/jak_pisac.pdf](Rady i zalecenia dla autorów prac dyplomowych i raportów z pracowni dyplomowych)
