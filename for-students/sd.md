@@ -10,4 +10,4 @@ Ostatnia aktualizacja: **11/18/2019 7:20:35 PM**
 
 Materiały:
 
-[http://www.ii.pw.edu.pl/~jwt/jak_pisac.pdf](Rady i zalecenia dla autorów prac dyplomowych i raportów z pracowni dyplomowych)
+[Rady i zalecenia dla autorów prac dyplomowych i raportów z pracowni dyplomowych](http://www.ii.pw.edu.pl/~jwt/jak_pisac.pdf)
