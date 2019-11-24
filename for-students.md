@@ -9,7 +9,7 @@ permalink: /for-students/
 * ...
 -->
 
-Ostatnia aktualizacja: **10/20/2019 7:58:34 AM**
+Ostatnia aktualizacja: **24 listopada 2019 r.**
 
 ## Komunikaty:
 
