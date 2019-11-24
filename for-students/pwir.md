@@ -6,20 +6,18 @@ exclude: true
 ---
 
 Edycja: **Zima 2019**<br>
-Ostatnia aktualizacja: **10/20/2019 8:26:10 AM**
+Ostatnia aktualizacja: **24 listopada 2019**
 
-<!-- # &#x1F534; Komunikat **UWAGA**: Zajęcia laboratoryjne z dnia 9 stycznia 2018 r. odbędą się w późniejszym terminie.  -->
 
 ## Aktualności
 
-* Uwaga, zmiana terminów zajęć!
+* Termin pierwszego kolokwium: **5 stycznia 2019 w godzinach laboratorium**.
+* Zmiana terminów zajęć!
 
 | Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
 | --------- | -------- | --------------------- | -------------------- | ---- |
-| PWiR      | Wykł.    | 17.10, 16:00 - 17:30  | 16.10, 15:00 - 16:30 | 228  |
-| PWiR      | Lab.     | 17.10, 17:45 - 19:15  | 16.10, 13:15 - 14:45 | 241  |
-| PWiR      | Wykł.    | 24.10, 16:00 - 17:30  | 30.10, 15:00 - 16:30 | 228  |
-| PWiR      | Lab.     | 24.10, 17:45 - 19:15  | 30.10, 13:00 - 14:30 | 241  |
+| PWiR      | Wykł.    | 28.11, 16:00 - 17:30  | 15.01, 15:00 - 16:30 | 228  |
+| PWiR      | Lab.     | 28.10, 17:45 - 19:15  | 15.01, 13:15 - 14:45 | 241  |
 
 <br>
 

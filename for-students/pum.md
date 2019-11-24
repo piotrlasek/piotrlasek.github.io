@@ -6,17 +6,11 @@ exclude: true
 ---
 
 Edycja: **Zima 2018** <br>
-Ostatnia aktualizacja: **10/11/2019 10:53:55 AM**
+Ostatnia aktualizacja: **24 listopada 2019 r.**
 
 ## Aktualności
 
-* Uwaga, zmiana terminów zajęć:
-
-| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
-| --------- | -------- | --------------------- | -------------------- | ---- |
-| PUM       | Wykł.    | 22.10, 15:00 - 16:30  | 30.10, 10:00 - 11:30 | 228  |
-| PUM       | Lab.     | 22.10, 16:45 - 18:15  | 29.10, 13:15 - 13:45 | 241  |
-| PUM       | Lab.     | 22.10, 18:30 - 20:00  | 30.10, 11:30 - 13:00 | 241  |
+* UWAGA! Ogłaszam termin pierwszego kolokwium: **3 grudnia 2019 w godzinach laboratoryjnych**.
 
 <br>
 

@@ -6,14 +6,9 @@ exclude: true
 ---
 
 Edycja: **Zima 2019**<br>
-Ostatnia aktualizacja: **10/11/2019 10:52:33 AM**
+Ostatnia aktualizacja: **24 listopada 2019**
 
-Uwagi:
-* Zmiana terminu zajęć w tygodniu 21-25 października 2019 r.
-
-| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
-| --------- | -------- | --------------------- | -------------------- | ---- |
-| AI2       | Lab.     | 21.10, 15:00 - 16:00  | 16.10, 18:00 - 19:30 | 241  |
+## Uwaga: Proszę zgłaszać się w godzinach laboratorium z rozwiązaniami zadań laboratoryjnych.
 
 <br>
 
