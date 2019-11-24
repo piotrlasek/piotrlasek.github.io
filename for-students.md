@@ -13,7 +13,7 @@ Ostatnia aktualizacja: **10/20/2019 7:58:34 AM**
 
 ## Komunikaty:
 
-* Uwaga! Kolokwia - proszę sprawdzać terminy na stronach przedmiotów.
+* Uwaga! **Kolokwia** - proszę sprawdzać terminy na stronach przedmiotów.
 
 ## Konsultacje:
 
