@@ -8,7 +8,10 @@ exclude: true
 Edycja: **Zima 2019**<br>
 Ostatnia aktualizacja: **24 listopada 2019**
 
-## Uwaga: Proszę zgłaszać się w godzinach laboratorium z rozwiązaniami zadań laboratoryjnych.
+## Aktualności
+* Uwaga! Kolokwium w godz. laboratorium w dn. 3 grudnia 2019.
+* Osoby, które jeszcze tego nie zrobiły, uprzejmie zgłaszać osobiście wybrane tematy projektów, termin: do 3 grudnia 2019.
+* Proszę również zgłaszać się w godzinach laboratorium z rozwiązaniami zadań laboratoryjnych.
 
 <br>
 
