@@ -10,7 +10,7 @@ Ostatnia aktualizacja: **24 listopada 2019 r.**
 
 ## Aktualności
 
-* UWAGA! Ogłaszam termin pierwszego kolokwium: **3 grudnia 2019 w godzinach laboratoryjnych**.
+* UWAGA! Termin pierwszego kolokwium: **3 grudnia 2019 w godzinach laboratoryjnych**.
 
 <br>
 
@@ -28,7 +28,7 @@ Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 1. Realizacja wybranego projektu.
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów implementacji).
-4. Pozytywne zaliczenie kolokwium podsumowującego wykład.
+4. Pozytywne zaliczenie 2 cząstkowych kolokwiów z zagadnień wykładowych.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 ## Materiały do laboratorium
