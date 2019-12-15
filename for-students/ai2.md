@@ -6,10 +6,12 @@ exclude: true
 ---
 
 Edycja: **Zima 2019**<br>
-Ostatnia aktualizacja: **24 listopada 2019**
+
+Ostatnia aktualizacja: **15 grudnia 2019**
 
 ## Aktualności
-* Uwaga! Kolokwium w godz. laboratorium w dn. 3 grudnia 2019.
+
+* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych i laboratoryjnych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
 * Osoby, które jeszcze tego nie zrobiły, uprzejmie zgłaszać osobiście wybrane tematy projektów, termin: do 3 grudnia 2019.
 * Proszę również zgłaszać się w godzinach laboratorium z rozwiązaniami zadań laboratoryjnych.
 

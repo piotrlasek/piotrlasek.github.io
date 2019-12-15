@@ -6,11 +6,12 @@ exclude: true
 ---
 
 Edycja: **Zima 2018** <br>
-Ostatnia aktualizacja: **24 listopada 2019 r.**
+Ostatnia aktualizacja: **15 grudnia 2019**
 
 ## Aktualności
 
-* UWAGA! Termin pierwszego kolokwium: **3 grudnia 2019 w godzinach laboratoryjnych**.
+* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
+* Uwaga! Termin kolokwium na zaliczenie wykładu: **Tydzień 13 - 17 stycznia 2019 - dokładny dzień i godzna do ustalenia na najbliszym wykładzie**.
 
 <br>
 
