@@ -6,11 +6,11 @@ exclude: true
 ---
 
 Edycja: **Zima 2018** <br>
-Ostatnia aktualizacja: **15 grudnia 2019**
+Ostatnia aktualizacja: **17 grudnia 2019**
 
 ## Aktualności
 
-* [Wyniki pierwszego kolokwium](wyniki-pum.txt)
+* [Wyniki](wyniki-pum.txt)
 * Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
 * Uwaga! Termin kolokwium na zaliczenie wykładu: **Tydzień 13 - 17 stycznia 2019 - dokładny dzień i godzna do ustalenia na najbliszym wykładzie**.
 
