@@ -1,0 +1,86 @@
+#	K1	K2	P
+aladr	45		
+bapi			
+bakr	47		
+bejo			
+bian	42		
+boka	29		
+boma	50		5
+buda			
+cara	44		
+cwwi	46		
+czkr	31		
+czer			
+dzwo			
+dzka	32		
+frka			
+gaja			
+gada	44		
+grja			
+gwpa			
+hrad			
+huda	47		
+jahu	30		
+kaem	47		
+klpa	45		
+kłpi	47		
+kopa			
+kowo			
+koka	37		
+koka	33		
+koja			
+koda	50		5
+krma			
+krkr			
+kuko			
+kułu			
+kwłu	35		
+lapa			
+lama	38		
+łura			
+maka			
+mami	48		
+maja	35		
+mama			
+mipa			
+mlba			
+młpa	37		
+moma			
+muro			
+noka	47		
+ocda	34		5
+paka	34		5
+papr			
+paba			
+pado	28		
+pada			
+pipa			
+plkr			
+poto	27		
+pudo	44		
+rokr	44		
+skto	32		
+skma	50		5
+słda			
+słba	48		5
+smpa	37		
+stkr			
+stto			
+sura			
+szal	35		
+szfi			
+śwno			
+śwłu	38		
+twjo			
+urto	37		
+usmi			
+wado	43		
+wemi	46		
+wepr	37		
+wokr			
+woty	38		
+wrpr			
+zado			
+zaja	37		
+żami			
+żuka			

@@ -10,6 +10,7 @@ Ostatnia aktualizacja: **15 grudnia 2019**
 
 ## Aktualności
 
+* [Wyniki pierwszego kolokwium](wyniki-pum.txt)
 * Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
 * Uwaga! Termin kolokwium na zaliczenie wykładu: **Tydzień 13 - 17 stycznia 2019 - dokładny dzień i godzna do ustalenia na najbliszym wykładzie**.
 
@@ -21,7 +22,6 @@ Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 1. Programowanie aplikacji na urządzenia mobilne (PAUM)
 1. Programowanie urządzeń mobilnych (AUM)
 1. Bazy danych dla urządzań mobilnych (BDUM).
-
 -->
 
 ## Zasady zaliczenia
