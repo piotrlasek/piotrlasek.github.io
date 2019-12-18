@@ -10,6 +10,7 @@ Ostatnia aktualizacja: **15 grudnia 2019**
 
 ## Aktualności
 
+* [Wyniki](wyniki-pwir.txt)
 * Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
 * Termin **drugiego** kolokwium: **15 stycznia 2019 w godzinach laboratorium**.
 * Zmiana terminów zajęć!

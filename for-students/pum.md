@@ -16,8 +16,8 @@ Ostatnia aktualizacja: **17 grudnia 2019**
 
 <br>
 
-<!-- # Informacje
-
+<!--
+# Informacje
 Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 1. Programowanie aplikacji na urządzenia mobilne (PAUM)
 1. Programowanie urządzeń mobilnych (AUM)
