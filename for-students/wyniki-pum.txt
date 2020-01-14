@@ -1,86 +1,86 @@
 #	K1	K2	P
-aladr	45		
-bapi			
-bakr	47		
+aladr	45	19	
+bapi		20	
+bakr	47	18	
 bejo			
-bian	42		
-boka	29		
-boma	50		5
-buda			
-cara	44		
-cwwi	46		
-czkr	31		
-czer			
-dzwo			
-dzka	32		
-frka			
-gaja			
-gada	44		
-grja			
-gwpa			
-hrad			
-huda	47		
-jahu	30		
-kaem	47		
-klpa	45		
-kłpi	47		
-kopa			
-kowo			
-koka	37		
-koka	33		
-koja			
-koda	50		5
-krma			
-krkr			
-kuko			
-kułu			
-kwłu	35		
-lapa			
-lama	38		
-łura			
-maka			
-mami	48		
-maja	35		
-mama			
-mipa			
-mlba			
-młpa	37		
-moma			
-muro			
-noka	47		
-ocda	34		5
-paka	34		5
-papr			
-paba			
-pado	28		
-pada			
-pipa			
-plkr			
-poto	27		
-pudo	44		
-rokr	44		
-skto	32		
-skma	50		5
-słda			
-słba	48		5
-smpa	37		
-stkr			
-stto			
-sura			
-szal	35		
-szfi			
-śwno			
-śwłu	38		
-twjo			
-urto	37		
-usmi			
-wado	43		
-wemi	46		
-wepr	37		
-wokr			
-woty	38		
-wrpr			
+bian	42	17	
+boka	29	12	
+boma	50	19	5
+buda		17	
+cara	44	18	
+cwwi	46	18	
+czkr	31	18	
+czer		20	
+dzwo		21	
+dzka	32	17	
+frka		20	
+gaja		20	
+gada	44	10	
+grja		14	
+gwpa		16	
+hrad		16	
+huda	47	19	
+jahu	30	21	
+kaem	47	15	5
+klpa	45	15	
+kłpi	47	20	
+kopa		18	
+kowo		21	
+koka	37	18	
+koka	33	18	
+koja		15	
+koda	50	25	5
+krma		19	
+krkr		14	
+kuko		16	
+kułu		14	
+kwłu	35	17	
+lapa		15	
+lama	38	22	
+łura		18	
+maka		14	
+mami	48	19	
+maja	35	22	
+mama		22	
+mipa		15	
+mlba		21	
+młpa	37	20	
+moma		20	
+muro		14	
+noka	47	18	
+ocda	34	14	5
+paka	34	16	5
+papr		16	
+paba		15	
+pado	28	22	
+pada		17	
+pipa		20	
+plkr		19	
+poto	27	17	
+pudo	44	15	
+rokr	44	10	
+skto	32	17	
+skma	50	22	5
+słda		18	
+słba	48	17	5
+smpa	37	20	
+stkr		17	
+stto		16	
+sura		19	
+szal	35	20	
+szfi		17	
+śwno		13	
+śwłu	38	18	
+twjo		16	
+urto	37	21	
+usmi		20	
+wado	43	20	
+wemi	46	21	
+wepr	37	21	
+wokr		16	
+woty	38	16	
+wrpr		18	
 zado			
-zaja	37		
-żami			
-żuka			
+zaja	37	15	
+żami		16	
+żuka		10	
