@@ -12,7 +12,7 @@ Ostatnia aktualizacja: **15 stycznia 2020**
 
 * **Uwaga! W wyniku nieporozumienia, zapraszam Państwa na kolokwium zaliczeniowe w dn. 16.01 o godz. 16:00. Po kolokwium będzie możliwość oddania projektów. Jest to ostateczny termin na ich oddanie.**
 * [Aktualne wyniki](wyniki-pwir.txt)
-* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
+* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019**
 * Zmiana terminów zajęć (aktualizacja 15.01.2020)!
 
 | Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
