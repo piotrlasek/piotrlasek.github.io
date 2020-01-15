@@ -125,7 +125,7 @@ się z następujących elementów:
    * **Materiały do przygotowania do egzaminu i [kolokwium](pwir-kolokwium-2.pdf)**.
 -->
 
-## Slajdy do wykładu (Jesień 2016)
+## Slajdy do wykładu
 
 <iframe src="https://docs.google.com/presentation/d/1uDHyqTuH74eFHItjUmK2E1E-GVj_0vT1WCtxYCzwe2c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
