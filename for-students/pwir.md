@@ -13,13 +13,6 @@ Ostatnia aktualizacja: **15 stycznia 2020**
 * **Uwaga!** Termin egzaminu: środa, 29.01.2020, godz. 15:30, sala do ustalenia.
 * **Uwaga!** W wyniku nieporozumienia, zapraszam Państwa na kolokwium zaliczeniowe w dn. 16.01 o godz. 16:00. Po kolokwium będzie możliwość oddania projektów. Prosze pamiętać, że jest to ostateczny termin na ich oddanie.**
 * [Aktualne wyniki](wyniki-pwir.txt)
-* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019**
-* Zmiana terminów zajęć (aktualizacja 15.01.2020)!
-
-| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
-| --------- | -------- | --------------------- | -------------------- | ---- |
-| PWiR      | Wykł.    | 28.11, 16:00 - 17:30  | 15.01, 15:00 - 16:30 | 228  |
-| PWiR      | Lab.     | 28.10, 17:45 - 19:15  | 15.01, 16:45 - 18:15 | 241  |
 
 <br>
 
