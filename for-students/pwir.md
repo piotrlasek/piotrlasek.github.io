@@ -6,19 +6,13 @@ exclude: true
 ---
 
 Edycja: **Zima 2019**<br>
-Ostatnia aktualizacja: **15 grudnia 2019**
+Ostatnia aktualizacja: **15 stycznia 2020**
 
 ## Aktualności
 
-* [Wyniki](wyniki-pwir.txt)
-* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
-* Termin **drugiego** kolokwium: **15 stycznia 2019 w godzinach laboratorium**.
-* Zmiana terminów zajęć!
-
-| Przedmiot | Zajęcia  | Wg. planu             | Nowy termin          | Sala |
-| --------- | -------- | --------------------- | -------------------- | ---- |
-| PWiR      | Wykł.    | 28.11, 16:00 - 17:30  | 15.01, 15:00 - 16:30 | 228  |
-| PWiR      | Lab.     | 28.10, 17:45 - 19:15  | 15.01, 13:15 - 14:45 | 241  |
+* **Uwaga!** Termin egzaminu: środa, 29.01.2020, godz. 15:30, sala do ustalenia.
+* **Uwaga!** W wyniku nieporozumienia, zapraszam Państwa na kolokwium zaliczeniowe w dn. 16.01 o godz. 16:00. Po kolokwium będzie możliwość oddania projektów. Prosze pamiętać, że jest to ostateczny termin na ich oddanie.**
+* [Aktualne wyniki](wyniki-pwir.txt)
 
 <br>
 
@@ -131,7 +125,7 @@ się z następujących elementów:
    * **Materiały do przygotowania do egzaminu i [kolokwium](pwir-kolokwium-2.pdf)**.
 -->
 
-## Slajdy do wykładu (Jesień 2016)
+## Slajdy do wykładu
 
 <iframe src="https://docs.google.com/presentation/d/1uDHyqTuH74eFHItjUmK2E1E-GVj_0vT1WCtxYCzwe2c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
