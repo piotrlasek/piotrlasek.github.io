@@ -7,7 +7,7 @@ exclude: true
 
 Edycja: **Zima 2019**<br>
 
-Ostatnia aktualizacja: **15 grudnia 2019**
+Ostatnia aktualizacja: **25 stycznia 2020**
 
 ## Aktualności
 
