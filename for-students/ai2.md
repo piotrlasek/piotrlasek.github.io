@@ -11,6 +11,8 @@ Ostatnia aktualizacja: **15 grudnia 2019**
 
 ## Aktualności
 
+* [Bieżące wyniki](wyniki-ai2.txt)
+
 * Uwaga! Ostatni możliwy termin na oddanie zadań projektowych i laboratoryjnych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
 * Osoby, które jeszcze tego nie zrobiły, uprzejmie zgłaszać osobiście wybrane tematy projektów, termin: do 3 grudnia 2019.
 * Proszę również zgłaszać się w godzinach laboratorium z rozwiązaniami zadań laboratoryjnych.

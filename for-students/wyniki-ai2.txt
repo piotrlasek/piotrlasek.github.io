@@ -1,0 +1,55 @@
+#	L	P	#K	K
+bapio	zal.	5.0	25	3.5
+bejoa				2.0
+budam	zal.	4.0	26	3.5
+czery	zal.	3.5	27	4.0
+dzwoj	zal.	4.0	29	4.0
+frkam	zal.	4.5	27	4.0
+gajak	zal.	3.5	29	4.0
+grjak	zal.	3.5	26	3.5
+hradr	zal.	3.5	29	4.0
+kopaw		4.5		2.0
+kojak	zal.	5.0	36	5.0
+krkrz	zal.	4.0	25	3.5
+kułuk	zal.	4.0	25	3.5
+mipat	zal.	4.0	35	5.0
+plkrz	zal.	4.5	26	3.5
+sttom	zal.	5.0	24	3.5
+śwnor	zal.	4.5	25	3.5
+zador	zal.	4.0	27	4.0
+aladr			19	3.0
+bakrz			28	4.0
+biand				2.0
+bokam			23	3.5
+dzkam			27	4.0
+gadam			21	3.0
+gwpat			29	4.0
+hudaw			29	4.0
+jahub			23	3.5
+kaema			29	4.0
+klpaw			31	4.0
+kłpio			28	4.0
+kowoj			33	5.0
+krmat			27	4.0
+kukon			28	4.0
+kwłuk			20	3.0
+makam			31	4.0
+mamac			35	5.0
+mlbar			31	4.0
+momat			29	4.0
+murom			23	3.5
+paprz			29	4.0
+pabar			23	3.5
+padan			27	4.0
+pipat			24	3.5
+rokrz			26	3.5
+słdar			27	4.0
+stkrz			33	5.0
+suraf			29	4.0
+szfil			31	4.0
+twjoa			25	3.5
+usmił			27	4.0
+wokry			30	4.0
+wrprz			36	5.0
+żamic			32	5.0
+żukam			21	3.0
