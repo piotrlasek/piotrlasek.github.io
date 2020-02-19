@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: /links`/
+permalink: /links/
 ---
 
 * [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
