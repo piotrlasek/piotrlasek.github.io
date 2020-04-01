@@ -16,7 +16,7 @@ będzie odbywać się w sposób zdalny. W tym celu, wymagane jest od
 Państwa:
 
 * Założenie konta w systemie GitHub.
-* Założenie prywatnego repozytorium projektowego.
+* Założenie __prywatnego__ repozytorium projektowego.
 * Zaproszenie prowadzącego do utworzonego repozytorium.
 * Umieszczenie w repozytorium podstawowych informacji o projekcie
   (temat, zakres, technologia) do dn. **14 kwietnia 2020 r.**
@@ -26,6 +26,13 @@ Państwa:
   repozytorium.
 * Poinformowanie prowadzącego o zakończeniu implementacji,
   dokumentacji i gotowości do oddania projektu.
+
+Uwagi:
+- proszę nie kasować repozytorium przed zakończeniem semestru
+- oceny zostaną udostępnione pod koniec semestru, kiedy wszyscy
+  (a przynajmniej większość) studentów odda projekty
+- proszę pracować samodzielnie - kod źródłowy będzie analizowany pod
+  kątem wykorzystania cudzego kodu
 
 # Konsultacje
 
