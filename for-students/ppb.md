@@ -21,7 +21,8 @@ Państwa:
 * Umieszczenie w repozytorium podstawowych informacji o projekcie
   (temat, zakres, technologia) do dn. **14 kwietnia 2020 r.**
 * Wykonanie projektu realizującego podstawową funkcjonalność typu
-  CRUD oraz umieszczenie kodów źródłowych w repozytorium.
+  CRUD (nie ma potrzeby implementowanie _front-end'u_) oraz
+  umieszczenie kodów źródłowych w repozytorium.
 * Przytotowanie dokumentacji projektowej i umieszczenie jej w
   repozytorium.
 * Poinformowanie prowadzącego o zakończeniu implementacji,
