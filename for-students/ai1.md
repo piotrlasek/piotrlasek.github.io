@@ -14,23 +14,33 @@ Ostatnia aktualizacja: **1 kwietnia 2020**
 * Materiały udostępnione za pośrednictwem poczty elektronicznej.
 * Zaliczenie laboratorium odbywa się poprzez samodzielne przygotowanie
   projektu.
-* Zasady zaliczenia projektu podane są poniżej.
+* Termin realizacji projektu: **8 czerwca 2020 r.**
 
-# Projekty
+# Projekt
 
 Z powodu zaistniałej sytuacji, realizacja oraz zaliczenie projektu
 będzie odbywać się w sposób zdalny. W tym celu, wymagane jest od
 Państwa:
 
-* Założenie konta w systemie GitHub (lub podobnym).
-* Zaproponowanie tematu projektu.
-* Zgłosznie prowadzącemu informacji o nazwie konta oraz zaproponowanym
-  temacie projektu do **14 kwietnia 2020 r.**
-* Regularne uzupełnianie kodu źródłowego projektu w okresie od
-  **15 kwietnia 2020** do **1 czerwca 2020**.
-* Przygotowanie dokumentacji projektowej.
-* Udostępnienie dokumentacji projektowej w repozytorium projektu oraz
-  poinformowanie o tym fakcie prowadzącego.
+
+* Założenie konta w systemie GitHub.
+* Założenie prywatnego repozytorium projektowego.
+* Zaproszenie prowadzącego do utworzonego repozytorium.
+* Umieszczenie w repozytorium podstawowych informacji o projekcie
+  (temat, zakres, technologia) do dn. 14 kwietnia 2020 r.
+* Regularne wprowadzanie zmian do repozytorium (przynajmniej 1 raz w
+  tygodniu)
+* Przytotowanie dokumentacji projektowej i umieszczenie jej w
+  repozytorium.
+* Poinformowanie prowadzącego o zakończeniu implementacji,
+
+Uwagi:
+
+- proszę nie kasować repozytorium przed zakończeniem semestru
+- oceny zostaną udostępnione pod koniec semestru, kiedy wszyscy (a
+  przynajmniej większość) studentów odda projekty
+- proszę pracować samodzielnie - kod źródłowy będzie analizowany pod
+  kątem wykorzystania cudzego kodu
 
 # Konsultacje
 
