@@ -31,7 +31,7 @@ Topics:
 3. [Cascading Style Sheets](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday1_htmlcss.pdf)
 4. [Programming on the client side](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday3_clientjs.pdf)
 5. [Programming on the server side](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday3_backend.pdf)
-6. Creating dynamic web pages
+6. [Progressive web applications](https://en.wikipedia.org/wiki/Progressive_web_application)
 7. [Developing of websites using databases](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday4_databases.pdf)
 8. [Languages of the description and data representation](https://github.com/dinanathsj29/json-javascript-object-notation-crash-course)
 9. [Testing, publishing and management of the website]()
