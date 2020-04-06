@@ -9,7 +9,7 @@ Last update: **April 6, 2020**
 
 # Office hours
 
-Mondays, 3:30 PM
+Mondays, 3:30 PM / online
 
 # Syllabus
 
