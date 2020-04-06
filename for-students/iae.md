@@ -41,11 +41,11 @@ Links
 * [Web Development Class / MIT](http://webdevelopment.mit.edu/2018/lectures)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [SQL for Web Nerds](http://philip.greenspun.com/sql/)
-
+* [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
 
 # Project
 
-In order to get a positive grade, a student is obliged to implement 
+In order to get a **positive grade**, a student is obliged to implement 
 a project of a website and prepare a written documentation.
 Then the project needs to be presented to the teacher.
 
