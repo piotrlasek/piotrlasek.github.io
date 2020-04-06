@@ -18,19 +18,26 @@ Last update: **April 6, 2020**
 
 # Lecture materials
 
-1. Basic principles of design and web development.
-2. Basics of creating websites in HTML language.
-3. Cascading Style Sheets.
-4. Programming on the client side.
-5. Programming on the server side.
-6. Creating dynamic web pages.
-7. Developing of websites using databases.
-8. Languages of the description and data representation.
-9. Testing, publishing and management of the website.
-10. CMS - Content Management Systems.
+Highly recommended:
+* [Web programming with Python and Java Script / a free course from Harvard](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+
+Topics:
+1. [Basic principles of design and web development](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday4_uiux.pdf)
+2. [Basics of creating websites in HTML language](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday1_htmlcss.pdf)
+3. [Cascading Style Sheets](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday1_htmlcss.pdf)
+4. [Programming on the client side](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday3_clientjs.pdf)
+5. [Programming on the server side](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday3_backend.pdf)
+6. Creating dynamic web pages
+7. [Developing of websites using databases](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday4_databases.pdf)
+8. [Languages of the description and data representation](https://github.com/dinanathsj29/json-javascript-object-notation-crash-course)
+9. [Testing, publishing and management of the website]()
+10. [CMS - Content Management Systems]()
 
 Links
 * [Web Development Class / MIT](http://webdevelopment.mit.edu/2018/lectures)
+* [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
+* [SQL for Web Nerds](http://philip.greenspun.com/sql/)
+
 
 # Project
 
