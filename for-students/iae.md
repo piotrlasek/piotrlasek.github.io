@@ -10,14 +10,15 @@ Last update: **April 6, 2020**
 # Syllabus
 
 * The aim of the course is to familiarize students with the history of the development of the Internet and technologies used for build websites, such as XHTML, XML, CSS, JavaScript, jQuery, PHP, CGI.
-* The student knows the basic principles of creating websites and has knowledge about the architecture of web applications.
-* The student has knowledge of the basic scripting languages used to implement web applications.
-* The student is able to design and implement a dynamic website using a scripting language and customize the appearance according to the graphic design.
-* The student is able to use technologies such as CSS, JavaScript, jQuery, etc.
+* The outcomes
+  * The student knows the basic principles of creating websites and has knowledge about the architecture of web applications.
+  * The student has knowledge of the basic scripting languages used to implement web applications.
+  * The student is able to design and implement a dynamic website using a scripting language and customize the appearance according to the graphic design.
+  * The student is able to use technologies such as CSS, JavaScript, jQuery, etc.
 
 # Lecture materials
 
-1. [Basic principles of design and web development.]
+1. Basic principles of design and web development.
 2. Basics of creating websites in HTML language.
 3. Cascading Style Sheets.
 4. Programming on the client side.
@@ -27,6 +28,9 @@ Last update: **April 6, 2020**
 8. Languages of the description and data representation.
 9. Testing, publishing and management of the website.
 10. CMS - Content Management Systems.
+
+Links
+* [Web Development Class / MIT](http://webdevelopment.mit.edu/2018/lectures)
 
 # Project
 
