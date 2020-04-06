@@ -7,6 +7,10 @@ exclude: true
 
 Last update: **April 6, 2020**
 
+# Office hours
+
+Mondays, 3:30 PM
+
 # Syllabus
 
 * The aim of the course is to familiarize students with the history of the development of the Internet and technologies used for build websites, such as XHTML, XML, CSS, JavaScript, jQuery, PHP, CGI.
@@ -45,11 +49,7 @@ In order to get a positive grade, a student is obliged to implement
 a project of a website and prepare a written documentation.
 Then the project needs to be presented to the teacher.
 
-# Consultations
-
-Mondays, 3:30 PM
-
-# Materials
+# Usefull books
 
 Primary books / readings:
 1. Leon Shklar, Rich Rosen, Web Application Architecture: Principles, Protocols and Practices, WILEY, 2009
