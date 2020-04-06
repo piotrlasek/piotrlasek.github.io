@@ -22,9 +22,6 @@ Mondays, 3:30 PM
 
 # Lecture materials
 
-Highly recommended:
-* [Web programming with Python and Java Script / a free course from Harvard](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-
 Topics:
 1. [Basic principles of design and web development](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday4_uiux.pdf)
 2. [Basics of creating websites in HTML language](http://webdevelopment.mit.edu/2018/pages/lectures/WEBday1_htmlcss.pdf)
@@ -38,6 +35,7 @@ Topics:
 10. [CMS - Content Management Systems]()
 
 Links
+* (Highly recommended) [Web programming with Python and Java Script / a free course from Harvard](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 * [Web Development Class / MIT](http://webdevelopment.mit.edu/2018/lectures)
 * [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 * [SQL for Web Nerds](http://philip.greenspun.com/sql/)
