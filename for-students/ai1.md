@@ -9,6 +9,12 @@ Edycja: **Lato 2020**<br>
 
 Ostatnia aktualizacja: **1 kwietnia 2020**
 
+# Komunikaty
+
+* [Konsultacje online - zoom.us](https://us04web.zoom.us/j/468861125)
+20.04.2020, godz. 16:45. Bardzo proszę o obecność. Będziemy omawiać
+tematy wybranych przez Państwa projektów.
+
 # Laboratorium
 
 * Materiały udostępnione za pośrednictwem poczty elektronicznej.
