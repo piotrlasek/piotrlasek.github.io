@@ -11,7 +11,7 @@ Ostatnia aktualizacja: **7 kwietnia 2020**
 
 # Komunikaty
 
-* [Konsultacje online](https://us04web.zoom.us/j/468861125)
+* [Konsultacje online - zoom.us](https://us04web.zoom.us/j/468861125)
 20.04.2020, godz. 16:45
 * [Lista studentów, którzy oddali projekty](wyniki-ppb.txt)
 
