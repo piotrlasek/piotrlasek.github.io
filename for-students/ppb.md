@@ -11,6 +11,8 @@ Ostatnia aktualizacja: **1 kwietnia 2020**
 
 # Projekty
 
+[Lista studentów, którzy oddali projkty](wyniki-ppb.txt)
+
 Z powodu zaistniałej sytuacji, realizacja oraz zaliczenie projektu
 będzie odbywać się w sposób zdalny. W tym celu, wymagane jest od
 Państwa:
