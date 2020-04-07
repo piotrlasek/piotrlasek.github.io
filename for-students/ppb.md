@@ -7,11 +7,14 @@ exclude: true
 
 Edycja: **Lato 2020**<br>
 
-Ostatnia aktualizacja: **1 kwietnia 2020**
+Ostatnia aktualizacja: **7 kwietnia 2020**
+
+# Komunikaty
+
+[Lista studentów, którzy oddali projekty](wyniki-ppb.txt)
 
 # Projekty
 
-[Lista studentów, którzy oddali projkty](wyniki-ppb.txt)
 
 Z powodu zaistniałej sytuacji, realizacja oraz zaliczenie projektu
 będzie odbywać się w sposób zdalny. W tym celu, wymagane jest od
