@@ -31,7 +31,7 @@ Państwa:
 * Przytotowanie dokumentacji projektowej i umieszczenie jej w
   repozytorium.
 * Poinformowanie prowadzącego o zakończeniu implementacji,
-  dokumentacji i gotowości do oddania projektu.
+  dokumentacji i gotowości do oddania projektu za pomocą **wiadomości e-mail**.
 
 Uwagi:
 - proszę nie kasować repozytorium przed zakończeniem semestru
