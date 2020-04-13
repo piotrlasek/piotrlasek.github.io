@@ -30,8 +30,9 @@ Państwa:
   umieszczenie kodów źródłowych w repozytorium.
 * Przytotowanie dokumentacji projektowej i umieszczenie jej w
   repozytorium.
-* Poinformowanie prowadzącego o zakończeniu implementacji,
-  dokumentacji i gotowości do oddania projektu.
+* Poinformowanie prowadzącego (**za pomocą poczty elektronicznej**) o
+  zakończeniu implementacji, dokumentacji i gotowości do oddania
+  projektu.
 
 Uwagi:
 - proszę nie kasować repozytorium przed zakończeniem semestru
