@@ -7,7 +7,9 @@ exclude: true
 
 Edycja: **Lato 2020**<br>
 
-Ostatnia aktualizacja: **7 kwietnia 2020**
+Aktualizacje: 
+* 14 kwietnia 2020: aktualizacji listy oddanych projektów
+* 10 kwietnia 2020: dodanie informacji dotyczącej komunikacji mailowej
 
 # Komunikaty
 
@@ -22,7 +24,7 @@ Państwa:
 
 * Założenie konta w systemie GitHub.
 * Założenie __prywatnego__ repozytorium projektowego.
-* Zaproszenie prowadzącego do utworzonego repozytorium.
+* Zaproszenie prowadzącego do utworzonego repozytorium oraz poinformowanie o tym fakcie poprzez wysłanie **wiadomości e-mail**.
 * Umieszczenie w repozytorium podstawowych informacji o projekcie
   (temat, zakres, technologia) do dn. **14 kwietnia 2020 r.**
 * Wykonanie projektu realizującego podstawową funkcjonalność typu
