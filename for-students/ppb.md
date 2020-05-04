@@ -8,10 +8,7 @@ exclude: true
 Edycja: **Lato 2020**<br>
 
 Aktualizacje: 
-* 22 kwietnia 2020: aktualizacja listy oddanych projektów
-* 14 kwietnia 2020: aktualizacja listy oddanych projektów
-* 13 kwietnia 2020: aktualizacja listy oddanych projektów
-* 10 kwietnia 2020: dodanie informacji dotyczącej komunikacji mailowej
+* 4 maja 2020: aktualizacja listy oddanych projektów
 
 # Komunikaty
 
