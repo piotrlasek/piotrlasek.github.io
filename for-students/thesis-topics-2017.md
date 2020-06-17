@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Propozycje tematów prac inżynierskich
-permalink: /for-students/topics2017
+title: Propozycje tematów prac inżynierskich i magisterskich
+permalink: /for-students/topics2020
 exclude: true
 ---
 
