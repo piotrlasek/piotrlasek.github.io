@@ -100,7 +100,7 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 
 *Dodatkowe założenia i wymagania*:
 
-* Przygotowanie zestawu testów jednostkowych do stworzonego oproramowania.
+* Przygotowanie zestawu testów jednostkowych do stworzonego oprogramowania.
 * Przetestowanie możliwości API przy użyciu istniejącej biblioteki
   wizualizacji danych (np. D3.js lub ggplot).
 * Wykonanie eksperymentów przy użyciu różnych zbiorów danych (np. Checkins,
