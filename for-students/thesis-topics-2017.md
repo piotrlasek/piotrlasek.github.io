@@ -5,10 +5,11 @@ permalink: /for-students/topics2017
 exclude: true
 ---
 
-Ostatnia aktualizacja: 13 marca 2019 r.
+# Propozycje prac inżynierskich i magisterskich
 
+Ostatnia aktualizacja: 17 czerwca 2020 r.
 
-## Przykładowe tematy - Seminarium Inżynierskie, semestr letni 2019
+## Przykładowe tematy
 
  1. Analiza i implementacja algorytmu k-średnich wspomagana strukturą
     pi-cube.
@@ -31,10 +32,8 @@ Ostatnia aktualizacja: 13 marca 2019 r.
 10. Implementacja i analiza algorytmu DBSCAN przy użyciu platformy MADlib.
 11. Implementacja i analiza algorytmu NBC przy użyciu platformy
     MADlib.
-
-
-
-
+    
+Nieco więcej szczegółów...
 
 ## Interaktywna wizualizacja i eksploracja danych
 
