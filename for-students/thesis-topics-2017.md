@@ -5,11 +5,9 @@ permalink: /for-students/topics2020
 exclude: true
 ---
 
-# Propozycje prac inżynierskich i magisterskich
-
 Ostatnia aktualizacja: 17 czerwca 2020 r.
 
-## Przykładowe tematy
+## Przykładowe tematy - do indywidualnej dyskusji
 
  1. Analiza i implementacja algorytmu k-średnich wspomagana strukturą
     pi-cube.
@@ -81,7 +79,7 @@ eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
-**Lista proponowanych tematów:**
+**Kilka proponowanych tematów w szczegółach...**
 
 <h3> A. Projekt i implementacja interfejsu programistycznego systemu
      interaktywnej wizualizacji i eksploracji danych</h3>
