@@ -41,7 +41,7 @@ The aim of the work is to design and implement a programming interface (API) in 
 * Retrieving the indicated parameterized (using an appropriate filter) data fragment.
 * Optimization of the method of data transfer between components in such a way as to maintain the interactivity of the system.
 
-* Additional assumptions and requirements*:
+*Additional assumptions and requirements*:
 
 * Preparation of a set of unit tests for the created software.
 * Testing the API capabilities using an existing data visualization library (eg D3.js or ggplot).
@@ -63,7 +63,7 @@ The aim of this task is to develop and implement an interactive data visualizati
 * For testing purposes, the module should allow you to replace references to the RESTful website with data from previously prepared JSON files.
 * The basic functions of the data visualization interface should be supported, such as: *zooming in*, *zooming out*, *panning*, *selection*.
 
-* Suggested implementation technologies *:
+*Suggested implementation technologies*:
 
 * Java Script
 * HTML5 (WebGL)
@@ -76,7 +76,8 @@ The aim of the task is to adapt (in cooperation with the supervisor, on the basi
 
 The task of the student, in addition to the implementation, will be to propose and conduct appropriate tests that will evaluate the performance of the programmed algorithms.
 
-* Sample test sets *:
+*Sample test sets*:
+
 * [Clustering datasets] (https://cs.joensuu.fi/sipu/datasets/)
 
 * Suggested implementation technologies *:
@@ -99,11 +100,11 @@ Keywords: behavioral patterns exploration, diabetes data set
 
 Keywords: revenue management, prediction analysis
 
-* Sample test sets *:
+*Sample test sets*:
 
 * [Clustering datasets] (https://cs.joensuu.fi/sipu/datasets/)
 
-* Suggested implementation technologies *:
+*Suggested implementation technologies*:
 
 * Java - implementation of algorithms
 * Python / ggplot - results visualization
