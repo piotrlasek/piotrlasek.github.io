@@ -78,7 +78,7 @@ The task of the student, in addition to the implementation, will be to propose a
 
 *Sample test sets*:
 
-* [Clustering datasets] (https://cs.joensuu.fi/sipu/datasets/)
+* [Clustering datasets](https://cs.joensuu.fi/sipu/datasets/)
 
 * Suggested implementation technologies *:
 * Java - implementation of algorithms
@@ -102,7 +102,7 @@ Keywords: revenue management, prediction analysis
 
 *Sample test sets*:
 
-* [Clustering datasets] (https://cs.joensuu.fi/sipu/datasets/)
+* [Clustering datasets](https://cs.joensuu.fi/sipu/datasets/)
 
 *Suggested implementation technologies*:
 
