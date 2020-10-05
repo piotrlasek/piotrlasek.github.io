@@ -109,13 +109,7 @@ Keywords: revenue management, prediction analysis
 * Java - implementation of algorithms
 * Python / ggplot - results visualization
 
-### Selected literature
-
-*Books*
-
-1. Tadeusz Morzy, Data Mining, Methods and Algorithms, Polish Scientific Publishers PWN, 2017
-
-*Papers*
+### References
 
 1. P Lasek, Z Mei, Clustering and visualization of a high-dimensional diabetes dataset, Procedia Computer Science 159, 2179-2188
 2. P Lasek, J Gryz, Density-based clustering with constraints, Computer Science and Information Systems 16 (2), 469-489
