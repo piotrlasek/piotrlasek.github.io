@@ -54,8 +54,7 @@ Celem pracy jest zaprojektowanie i implementacja interfejsu programistycznego (A
 * Django
 * JSON
 
-<h3> B. Implementacja interaktywnego modułu wizualizacji danych przy użyciu
-     komponentu WebGL</h3>
+<h3> B. Implementacja interaktywnego modułu wizualizacji danych przy użyciu komponentu WebGL</h3>
      
 Celem tego zadania jest opracowanie i implementacje interaktywnego modułu wizualizacji danych opartego o komponent WebGL, który stanowi element języka HTML5. Moduł powinien spełniać następujace założenia:
 
@@ -71,8 +70,7 @@ Celem tego zadania jest opracowanie i implementacje interaktywnego modułu wizua
 * jQuery
 * Bootstrap
 
-<h3> C. Zastosowanie indukcyjnej agregacji danych w wybranych algorytmach
-     grupowania gęstościowego</h3>
+<h3>C. Zastosowanie indukcyjnej agregacji danych w wybranych algorytmach grupowania gęstościowego</h3>
 
 Celem zadania jest zaadoptowanie (przy współpracy z opiekunem, na podstawie dostarczonej dokumentacji oraz literatury) i zaimplementowanie koncepcji indukcyjnej agregacji w wybranych algorytmach gęstościowego grupowania danych.
 
