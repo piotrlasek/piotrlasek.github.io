@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Propozycje tematów prac inżynierskich
+title: Propozycje tematów prac inżynierskich i magisterskich
 permalink: /for-students/topics-en
 exclude: true
 ---
 
-Ostatnia aktualizacja: 13 marca 2019 r.
+Ostatnia aktualizacja: 17 czerwca 2020 r.
 
-
-## Przykładowe tematy - Seminarium Inżynierskie, semestr letni 2019
+## Przykładowe tematy - do indywidualnej dyskusji
 
  1. Analiza i implementacja algorytmu k-średnich wspomagana strukturą
     pi-cube.
@@ -31,10 +30,8 @@ Ostatnia aktualizacja: 13 marca 2019 r.
 10. Implementacja i analiza algorytmu DBSCAN przy użyciu platformy MADlib.
 11. Implementacja i analiza algorytmu NBC przy użyciu platformy
     MADlib.
-
-
-
-
+    
+Nieco więcej szczegółów...
 
 ## Interaktywna wizualizacja i eksploracja danych
 
@@ -82,7 +79,7 @@ eksploracji.
 
 ![Uproszczony diagram systemu]({{site.url}}/files/diagram-2017.png)
 
-**Lista proponowanych tematów:**
+**Kilka proponowanych tematów w szczegółach...**
 
 <h3> A. Projekt i implementacja interfejsu programistycznego systemu
      interaktywnej wizualizacji i eksploracji danych</h3>
@@ -103,7 +100,7 @@ udostępnianie użytkownikowi możliwości wykonywania następujących operacji:
 
 *Dodatkowe założenia i wymagania*:
 
-* Przygotowanie zestawu testów jednostkowych do stworzonego oproramowania.
+* Przygotowanie zestawu testów jednostkowych do stworzonego oprogramowania.
 * Przetestowanie możliwości API przy użyciu istniejącej biblioteki
   wizualizacji danych (np. D3.js lub ggplot).
 * Wykonanie eksperymentów przy użyciu różnych zbiorów danych (np. Checkins,
@@ -199,7 +196,9 @@ Słowa kluczowe: revenue management, prediction analysis
 1. Tadeusz Morzy, Eksploracja Danych Metody i algorytmy, Wydawnictwo Naukowe PWN, 2017
 
 *Artykuyły*
-1. [Godfrey P., Gryz J., Lasek P.: Interactive Visualization of Large Data Sets, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, pp 2142–2157.](http://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=69&topArticlesDate=July+2016)
-2. Godfrey P., Gryz J., Lasek P., Razavi N.: Visualization through Inductive Aggregation, Proceedings of the 19th International Conference on Extending Database Technology, EDBT 2016, Bordeaux, France, March 14-18, 2016
-3. Godfrey P., Gryz J., Lasek P., Razavi N.: Interactive Visualization of Big Data, Beyond Databases, Architectures, and Structures: 12th International Conference, BDAS 2016, Ustron, Poland, Springer, 2016.
-4. Godfrey P., Gryz J., Lasek P., Razavi N.: Skydive: An Interactive Data Visualization Engine.  In IEEE Symposium on Large Data Analytics and Visualization, Chicago, USA, October 25-26., 2015
+1. P Lasek, Z Mei, Clustering and visualization of a high-dimensional diabetes dataset, Procedia Computer Science 159, 2179-2188
+2. P Lasek, J Gryz, Density-based clustering with constraints, Computer Science and Information Systems 16 (2), 469-489
+3. [Godfrey P., Gryz J., Lasek P.: Interactive Visualization of Large Data Sets, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016, pp 2142–2157.](http://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=69&topArticlesDate=July+2016)
+4. Godfrey P., Gryz J., Lasek P., Razavi N.: Visualization through Inductive Aggregation, Proceedings of the 19th International Conference on Extending Database Technology, EDBT 2016, Bordeaux, France, March 14-18, 2016
+5. Godfrey P., Gryz J., Lasek P., Razavi N.: Interactive Visualization of Big Data, Beyond Databases, Architectures, and Structures: 12th International Conference, BDAS 2016, Ustron, Poland, Springer, 2016.
+6. Godfrey P., Gryz J., Lasek P., Razavi N.: Skydive: An Interactive Data Visualization Engine.  In IEEE Symposium on Large Data Analytics and Visualization, Chicago, USA, October 25-26., 2015
