@@ -48,7 +48,7 @@ The aim of the work is to design and implement a programming interface (API) in 
 * Perform experiments using different datasets (e.g. Checkins, New York Taxi Cab, Seattle Fire Calls, etc.).
 * Presentation of the results of experiments in a clear and understandable form.
 
-* Suggested implementation technologies *:
+*Suggested implementation technologies*:
 
 * Python
 * Django
