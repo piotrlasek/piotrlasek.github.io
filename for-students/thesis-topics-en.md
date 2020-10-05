@@ -54,7 +54,7 @@ The aim of the work is to design and implement a programming interface (API) in 
 * Django
 * JSON
 
-<h3>B. Implementation of an interactive data visualization module using WebGL</h3> component
+<h3>B. Implementation of an interactive data visualization module using WebGL component</h3>
      
 The aim of this task is to develop and implement an interactive data visualization module based on the WebGL component, which is an element of the HTML5 language. The module should meet the following assumptions:
 
