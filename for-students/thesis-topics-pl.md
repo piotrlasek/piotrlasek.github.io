@@ -5,7 +5,7 @@ permalink: /for-students/topics-pl
 exclude: true
 ---
 
-Ostatnia aktualizacja: 17 czerwca 2020 r.
+Ostatnia aktualizacja: 5 października 2020 r.
 
 ## Przykładowe tematy - do indywidualnej dyskusji
 

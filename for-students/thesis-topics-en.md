@@ -5,7 +5,7 @@ permalink: /for-students/topics-en
 exclude: true
 ---
 
-Last updated: June 17, 2020
+Last updated: October 5, 2020
 
 ## Sample topics - for individual discussion
 
