@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proposed topics for engineering and master's theses
+title: Sample topics of masters' theses
 permalink: /for-students/topics-en
 exclude: true
 ---
@@ -33,7 +33,7 @@ Taking into account the above we propose several topics below. Their common fact
 
 **Sample topics**
 
-<h3> A. Design and implementation of the programming interface of the interactive data visualization and mining system </h3>
+<h3>A. Design and implementation of the programming interface of the interactive data visualization and mining system </h3>
 
 The aim of the work is to design and implement a programming interface (API) in a chosen technology for an interactive data visualization and mining system. The API will be an interface between the relational database and other modules of the system (i.e. the visualization module and the analytical module). The API will interactively provide the client of the system with the data needed to perform operations such as:
 
