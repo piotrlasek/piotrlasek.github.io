@@ -8,7 +8,7 @@ exclude: true
 Edycja: **Lato 2020**<br>
 
 Aktualizacje: 
-* 4 maja 2020: aktualizacja listy oddanych projektów
+* 8 czerwca 2020: aktualizacja listy oddanych projektów
 
 # Komunikaty
 
