@@ -29,9 +29,9 @@ In the context of data mining, the word *interactive* reflects how data analysts
 
 Taking into account the above we propose several topics below. Their common factor is the application of a special hierarchical structure (pi-cube) that allows accessing data with a given degree of granularity reducing the amount of data needed to be processed both in visualization or exploration.
 
-![Simplified System Diagram] ({{site.url}}/files/interactive-diagram-en.png)
+![Simplified System Diagram]({{site.url}}/files/interactive-diagram-en.png)
 
-** Sample topics **
+**Sample topics**
 
 <h3> A. Design and implementation of the programming interface of the interactive data visualization and mining system </h3>
 
