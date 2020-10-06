@@ -5,16 +5,13 @@ permalink: /for-students/pum
 exclude: true
 ---
 
-Edycja: **Zima 2018** <br>
-Ostatnia aktualizacja: **17 grudnia 2019**
+Edycja: **Zima 2020** <br>
+Ostatnia aktualizacja: **6 października 2020**
 
 ## Aktualności
 
-* [Wyniki](wyniki-pum.txt)
-* Uwaga! Ostatni możliwy termin na oddanie zadań projektowych to **tydzień 13 - 17 stycznia 2019** (z powodu wyjazdu jestem zmuszony przesunąć zajęcia z tygodnia 20 - 24 stycznia na wcześniejszy termin - szczegóły wkrótce).
-* Uwaga! Termin kolokwium na zaliczenie wykładu: **Tydzień 13 - 17 stycznia 2019 - dokładny dzień i godzna do ustalenia na najbliszym wykładzie**.
-
-<br>
+* Terminy deklaracji projektów oraz terminy kolokwiów zaliczeniowych
+dla poszczególnych grup, zostaną podane wkrótce. 
 
 <!--
 # Informacje
@@ -45,7 +42,7 @@ Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 
 Dokumentacja projektowa powinna zawierać:
 
-* Tytuł i autorów.
+* Tytuł i autorów (maksymalnie 2 osoby).
 * Datę sporządzenia.
 * **Opis podziału prac z procentowym uwzględnieniem wkładu poszczególnych osób.**
 * Opis treści zadania.
@@ -72,7 +69,6 @@ Dokumentacja projektowa powinna zawierać:
 1. Współdzielony notatnik
 1. Monitor kosztów utrzymania samochodu
 
-
 <!--
 ## Zadania sugerowane dla ISWDUM
 
@@ -95,14 +91,14 @@ Wybóru projektu i przypisania do grupy (maks. 4 osoby) należy dokonać za poś
 
 Zespoły samodzielnie formułują zadania projektowe. Należy jednak
 uwzględnić, że stopień skomplikowania projektu powinien być adekwatny
-do liczby osób w zespole (maksymalnie 4 osoby).
+do liczby osób w zespole (maksymalnie 2 osoby).
+
+Informacje o wybranym projekcie należy zgłosić mailowo.
 
 <!-- Ponadto, na drugich
 zajęciach laboratoryjnych należy przedłożyć specyfikację proponowanego
 projektu według szablonu dostępnego [tutaj](https://docs.google.com/document/d/1ZgnGpDfW4oCgnLDqLSuICZSqbFZmUX68mx57CsO5d9s/edit?usp=sharing).
 -->
-
-Formularz rejestracji grup i tematów projektów dostępny jest [tutaj](https://docs.google.com/document/d/1ceGklwtyWo0laFlFYBNLOPx_CoEn_zOFxw7Q_ifrero/edit?usp=sharing).
 
 ## Slajdy
 
