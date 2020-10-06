@@ -26,7 +26,7 @@ Na tej stronie znajdują się również informacje dotyczące przedmiotów:
 1. Realizacja wybranego projektu.
 2. Dokumentacja ze sposobu realizacji projektu.
 3. Obrona projektu (dyskusja na temat wybranych elementów implementacji).
-4. Pozytywne zaliczenie 2 cząstkowych kolokwiów z zagadnień wykładowych.
+4. Pozytywne (> 50%) zaliczenie kolokwium z zagadnień wykładowych.
     * [Przykładowe zadania na kolokwium zaliczeniowym](iswddum-test.html.pdf)!
 
 ## Materiały do laboratorium
