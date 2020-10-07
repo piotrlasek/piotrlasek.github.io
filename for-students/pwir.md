@@ -16,7 +16,7 @@ Ostatnia aktualizacja: **15 stycznia 2020**
 
 ## Wykłady
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs_LyEJOlezwI2TZLnFLaaI6fI1mjOjad-_VkHzAsDGo6xa-ltaCv0xP8TqbAaAlgSJD_x1rnIqDM3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="450" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs_LyEJOlezwI2TZLnFLaaI6fI1mjOjad-_VkHzAsDGo6xa-ltaCv0xP8TqbAaAlgSJD_x1rnIqDM3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
