@@ -16,6 +16,12 @@ Ostatnia aktualizacja: **15 stycznia 2020**
 
 <br>
 
+## Wykłady
+
+Wykład 1
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs_LyEJOlezwI2TZLnFLaaI6fI1mjOjad-_VkHzAsDGo6xa-ltaCv0xP8TqbAaAlgSJD_x1rnIqDM3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Zasady zaliczenia laboratorium
 
 Zaliczenie laboratorium odbywa się na podstawie zaliczenia czterech
@@ -124,13 +130,3 @@ się z następujących elementów:
      * 23 stycznia 2017 r., sala 243, godz. 9:00.
    * **Materiały do przygotowania do egzaminu i [kolokwium](pwir-kolokwium-2.pdf)**.
 -->
-
-## Slajdy do wykładu
-
-<iframe src="https://docs.google.com/presentation/d/1uDHyqTuH74eFHItjUmK2E1E-GVj_0vT1WCtxYCzwe2c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<iframe src="https://docs.google.com/presentation/d/1-BQnhYND_cDnnxKhY0zOH7es74rOmW1RnU6SMwZhePA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTILs3oe7eHjXxdjyn4tKi8AV1eAIhKFN5Edgomuj2GGe7xrl-9lOrBk54fcGm5AeazlZyaD8MW9wgK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<iframe src="https://docs.google.com/presentation/d/15ei5fcm-6qwNDKQeB8iJOrvD-ijIN5OLTCAuPaL7Ewg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
