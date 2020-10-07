@@ -18,7 +18,7 @@ Ostatnia aktualizacja: **15 stycznia 2020**
 
 Wykład 1
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs_LyEJOlezwI2TZLnFLaaI6fI1mjOjad-_VkHzAsDGo6xa-ltaCv0xP8TqbAaAlgSJD_x1rnIqDM3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs_LyEJOlezwI2TZLnFLaaI6fI1mjOjad-_VkHzAsDGo6xa-ltaCv0xP8TqbAaAlgSJD_x1rnIqDM3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="240" height="149" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Zasady zaliczenia laboratorium
 
