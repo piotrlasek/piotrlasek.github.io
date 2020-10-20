@@ -6,7 +6,7 @@ exclude: true
 ---
 
 Edycja: **Zima 2020** <br>
-Ostatnia aktualizacja: **6 października 2020**
+Ostatnia aktualizacja: **20 października 2020**
 
 ## Aktualności
 
